@@ -1,10 +1,10 @@
 # Memento non mori
 
-Revista de ciencia de la longevidad en español, creada por **Alma Guerra**.
+Newsletter semanal de ciencia de la longevidad en español, creada por **Alma Guerra**.
 
 [Ver la revista](https://nestorguerra.github.io/memento-non-mori/)
 
-Esta edición contiene **34 noticias**, con una publicación científica y una imagen conceptual distinta para cada pieza. Cada artículo identifica su fuente, fecha, modelo y límites. La biografía incluye las seis fotografías reales facilitadas para esta publicación.
+El archivo crece con nuevas investigaciones, con una publicación científica y una imagen conceptual distinta para cada pieza. Cada artículo identifica su fuente, fecha, modelo y límites. La biografía incluye las seis fotografías reales facilitadas para esta publicación.
 
 ## Publicación
 

@@ -93,8 +93,9 @@
     });
     topicButtons.forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.topic===topic)));
     const visible=Math.min(limit,matches.length);
-    count.textContent=matches.length+' '+(matches.length===1?'artículo':'artículos')+(onlySaved?(matches.length===1?' guardado':' guardados'):' en la colección');
-    shown.textContent='Mostrando '+visible+' de '+matches.length;
+    const filtered=topic!=='Todos'||q||evidence.value!=='all';
+    count.textContent=onlySaved?matches.length+' '+(matches.length===1?'artículo guardado':'artículos guardados'):filtered?matches.length+' '+(matches.length===1?'resultado':'resultados'):'Explora la actualidad científica';
+    shown.textContent=visible<matches.length?'Más investigaciones por descubrir':'Sigue leyendo, sigue preguntando.';
     load.hidden=visible>=matches.length;
     empty.hidden=matches.length>0;
     clear.hidden=topic==='Todos'&&!q&&evidence.value==='all'&&!onlySaved;
