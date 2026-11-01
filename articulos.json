@@ -1,174 +1,89 @@
 [
   {
-    "id": "42925940",
-    "topic": "Senescencia",
     "art": "cell",
+    "published_at": "2026-10-28",
+    "retrieved_at": "2026-10-28",
+    "reading_basis": "abstract",
+    "id": "42907856",
+    "topic": "Reprogramación",
     "group": "preclinical",
-    "evidence": "Preclínica",
-    "model": "Ratones y cultivos de fibroblastos y macrófagos",
-    "title": "Un senolítico reduce la fibrosis de la piel tras radiación en ratones",
-    "summary": "Un estudio identifica un circuito entre fibroblastos y macrófagos que favorece la fibrosis. Bloquearlo mediante la eliminación de células senescentes mejora el daño en un modelo animal.",
+    "evidence": "Cultivos de células humanas",
+    "model": "Células madre mesenquimales humanas expandidas en cultivo",
+    "title": "ARN circular reduce señales de senescencia en células madre humanas cultivadas",
+    "summary": "Una plataforma de ARN circular expresa temporalmente tres factores de reprogramación. Las células recuperan algunas funciones en cultivo, sin mostrar conversión a pluripotencia en los análisis descritos.",
     "body": [
-      "Un equipo ha estudiado cómo la senescencia celular contribuye a la fibrosis cutánea que puede aparecer tras la radioterapia. El trabajo combina un modelo de ratón con experimentos celulares. Su pregunta es cómo fibroblastos y macrófagos mantienen una respuesta que favorece la acumulación de colágeno.",
-      "Los autores describen un circuito de retroalimentación: las señales liberadas por fibroblastos senescentes inducen cambios en otras células y refuerzan la producción de IL-6 y colágeno. En ratones, el senolítico ABT-263 redujo la fibrosis dérmica, las poblaciones celulares implicadas y la expresión de IL-6."
+      "La expansión prolongada en laboratorio puede reducir las capacidades de las células madre mesenquimales. Un equipo ha probado ARN circular transportado por nanopartículas lipídicas para expresar OCT4, SOX2 y KLF4 de forma transitoria, sin modificar el genoma. El estudio original está fechado el 26 de julio de 2026.",
+      "En las células tratadas disminuyen marcadores de senescencia y daño en el ADN, y mejoran proliferación, migración y diferenciación. Los análisis descritos conservan la identidad mesenquimal y la integridad genómica, sin detectar conversión a células pluripotentes. También aparecen cambios en programas de expresión génica vinculados a la respuesta al estrés."
     ],
-    "impact": "Relaciona la senescencia con un daño tisular concreto y propone un mecanismo que merece más investigación.",
-    "limit": "Es una investigación preclínica sobre daño por radiación. No demuestra rejuvenecimiento general, mayor longevidad ni eficacia o seguridad en personas.",
-    "published_at": "2026-10-26",
-    "retrieved_at": "2026-10-26",
-    "reading_basis": "abstract",
-    "slug": "un-senolitico-reduce-la-fibrosis-de-la-piel-tras-radiacion-en-ratones",
-    "date": "24 de octubre de 2026",
-    "sort": "2026-10-24",
+    "impact": "Aporta una vía experimental para investigar cómo mejorar la calidad de células expandidas antes de estudiar su posible utilidad terapéutica.",
+    "limit": "El resultado procede de cultivos celulares. No demuestra rejuvenecimiento de personas, mayor longevidad ni seguridad clínica o a largo plazo. No detectar pluripotencia en estos análisis no excluye todos los riesgos futuros.",
+    "slug": "arn-circular-reduce-senales-de-senescencia-en-celulas-madre-humanas-cultivadas",
+    "date": "26 de julio de 2026",
+    "sort": "2026-07-26",
+    "added_sort": "2026-10-28-00000035",
     "archive": false,
     "minutes": 1,
     "author": "Alma Guerra",
     "source": {
-      "pmid": "42925940",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42925940/",
-      "doi": "10.1016/j.ijrobp.2026.10.013",
-      "journal": "International journal of radiation oncology, biology, physics",
+      "pmid": "42907856",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42907856/",
+      "doi": "10.1186/s13287-026-05193-0",
+      "journal": "Stem cell research & therapy",
       "authors": [
-        "Eun Joo Chung",
-        "Santwana Kc",
-        "Seokjoo Kwon",
-        "Ayla White",
-        "Joon-Yong Chung",
-        "Youngjoo Jung",
-        "Heesu Ahn",
-        "Hong Zhang",
-        "Edmund Cauley",
-        "Deborah E Citrin"
+        "Yumei Luo",
+        "Detu Zhu",
+        "Jinjin Tian",
+        "Ping Li",
+        "Xi Qin",
+        "Junzhi Wang"
       ],
-      "title": "A senescence-driven fibroblast-macrophage feed-forward circuit promotes radiation induced cutaneous fibrosis.",
-      "publication_date": "2026 Oct 24"
+      "title": "A circRNA platform for safe partial reprogramming and rejuvenation of mesenchymal stem cells without pluripotent conversion.",
+      "publication_date": "2026 Jul 26"
     }
   },
   {
     "art": "cell",
-    "published_at": "2026-10-26",
-    "retrieved_at": "2026-10-26",
+    "published_at": "2026-10-28",
+    "retrieved_at": "2026-10-28",
     "reading_basis": "abstract",
-    "id": "42925474",
-    "topic": "Metabolismo",
-    "group": "observational",
-    "evidence": "Observacional",
-    "model": "Análisis retrospectivo de 186 muestras de tejido de cuatro cohortes públicas",
-    "title": "FOXO3 muestra señales distintas en músculo envejecido y tejido articular",
-    "summary": "Un análisis de 186 muestras encuentra patrones opuestos de expresión de FOXO3 en músculo envejecido y tejido sinovial con artrosis de rodilla. El resultado apunta a diferencias entre tejidos, sin probar un tratamiento.",
-    "body": [
-      "Un análisis retrospectivo ha comparado conjuntos de datos públicos sobre tejido sinovial de rodillas con artrosis y músculo esquelético envejecido. El trabajo reúne 40 muestras de dos cohortes sinoviales y 146 de dos cohortes musculares. Su objetivo es estudiar cómo se relaciona FOXO3 con las redes del metabolismo y la respuesta inmunitaria.",
-      "Los autores describen menor expresión de FOXO3 en el tejido sinovial con artrosis y mayor expresión en el músculo envejecido. Sus asociaciones con las vías metabólicas e inmunitarias también difieren. Estos patrones ayudan a plantear hipótesis sobre la importancia del entorno de cada tejido al investigar el envejecimiento."
-    ],
-    "impact": "Advierte de que una misma señal molecular puede relacionarse de forma distinta con tejidos diferentes. Esto puede orientar investigaciones que eviten tratar el envejecimiento como un proceso uniforme.",
-    "limit": "Es un análisis observacional de datos ya existentes. No demuestra causalidad ni que activar FOXO3 o tomar precursores de NAD mejore la salud. Las estrategias que propone la publicación son hipótesis, no tratamientos validados.",
-    "slug": "foxo3-muestra-senales-distintas-en-musculo-envejecido-y-tejido-articular",
-    "date": "24 de octubre de 2026",
-    "sort": "2026-10-24",
-    "archive": false,
-    "minutes": 1,
-    "author": "Alma Guerra",
-    "source": {
-      "pmid": "42925474",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42925474/",
-      "doi": "10.1007/s12013-026-02212-y",
-      "journal": "Cell biochemistry and biophysics",
-      "authors": [
-        "Peng Zhang",
-        "Xiao Wang",
-        "Xiaotao Shi",
-        "Yanhao Yuan",
-        "Peizhao Wang",
-        "Renkun Zhao",
-        "Dongdong Xie",
-        "Honglüe Tan",
-        "Guorui Cao"
-      ],
-      "title": "Divergent Immunometabolic Regulatory Networks Mediated by FOXO3 During Musculoskeletal Aging: Implications for Tissue-Adapted Precision Therapeutics.",
-      "publication_date": "2026 Oct 24"
-    }
-  },
-  {
-    "id": "42919924",
+    "id": "42945030",
     "topic": "Biomarcadores",
-    "art": "vessel",
-    "evidence": "Atlas humano + modelos",
-    "model": "Más de 375.000 células de 12 tejidos humanos",
-    "title": "Un atlas de 375.000 células revela cómo envejecen nuestros vasos",
-    "summary": "El nuevo mapa del endotelio humano permite estudiar qué cambios comparten los vasos sanguíneos y cuáles dependen del órgano.",
-    "body": [
-      "El endotelio, la capa celular que recubre los vasos, participa en el funcionamiento de todos los órganos. Sin embargo, faltaba una referencia integrada de sus cambios a lo largo de la vida adulta. El atlas HAECA reúne más de 375.000 células endoteliales procedentes de doce tejidos humanos.",
-      "El análisis identifica una menor expresión de genes asociados a la formación de vasos en células venosas y alteraciones en la matriz extracelular y la respuesta a fuerzas mecánicas. También detecta un programa relacionado con p21, que los autores vinculan a senescencia mediante modelos experimentales. La aportación principal es un mapa para localizar vulnerabilidades y formular nuevas hipótesis."
-    ],
-    "impact": "Ofrece una referencia común para investigar envejecimiento vascular en distintos órganos.",
-    "limit": "Un atlas describe diferencias asociadas a la edad. No demuestra que corregirlas rejuvenezca los vasos.",
-    "slug": "un-atlas-de-375-000-celulas-revela-como-envejecen-nuestros-vasos",
-    "date": "23 de octubre de 2026",
-    "sort": "2026-10-23",
-    "archive": false,
     "group": "observational",
-    "minutes": 1,
-    "author": "Alma Guerra",
-    "source": {
-      "pmid": "42919924",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42919924/",
-      "doi": "10.1038/s43587-026-01247-3",
-      "journal": "Nature aging",
-      "authors": [
-        "Sarah Dobner",
-        "Lisa Kleissl",
-        "Fanni Tóth",
-        "Robert L Paxton",
-        "Irena Yordanova"
-      ],
-      "title": "Uncovering the transcriptional hallmarks of endothelial cell aging via integrated single-cell analysis.",
-      "publication_date": "2026 Oct 23"
-    }
-  },
-  {
-    "art": "cell",
-    "published_at": "2026-10-26",
-    "retrieved_at": "2026-10-26",
-    "reading_basis": "abstract",
-    "id": "42924848",
-    "topic": "Senescencia",
-    "group": "preclinical",
-    "evidence": "Preclínica",
-    "model": "Modelos de hipertensión pulmonar por hipoxia en ratones y experimentos celulares",
-    "title": "Un circuito de senescencia contribuye al daño vascular pulmonar en ratones",
-    "summary": "Un estudio vincula las proteínas TXNIP y REDD1 con la senescencia de macrófagos y la remodelación de arterias pulmonares en modelos de falta de oxígeno. No se ha probado una terapia en personas.",
+    "evidence": "Perros · observacional",
+    "model": "Cohorte de 41.047 perros de compañía; encuestas y seguimiento de mortalidad",
+    "title": "Más de 41.000 perros ayudan a explorar qué se asocia con una vida más larga",
+    "summary": "El Dog Aging Project relaciona tamaño, sexo y factores del entorno con la supervivencia canina. Son asociaciones observacionales, no pruebas de que cambiar un hábito alargue la vida.",
     "body": [
-      "La hipertensión pulmonar implica cambios en las arterias del pulmón y puede comprometer la función del corazón. Una investigación ha estudiado cómo la falta de oxígeno afecta a los macrófagos que rodean estos vasos. El trabajo combina análisis de datos con modelos animales y experimentos celulares.",
-      "Los autores encuentran que TXNIP se une a REDD1 y la estabiliza, favoreciendo la senescencia de los macrófagos. El medio procedente de estas células aumenta la proliferación y migración de células musculares lisas de la arteria pulmonar. En ratones, eliminar Txnip de células de la línea mieloide atenúa la remodelación vascular inducida por hipoxia."
+      "El Dog Aging Project analiza 41.047 perros de compañía, con información de sus cuidadores y seguimiento de mortalidad hasta 2024. El trabajo compara la supervivencia según tamaño, sexo y grupo de raza, y explora 804 variables de salud, actividad, comportamiento, ambiente y dieta.",
+      "La mediana de vida va de unos 14 años en perros pequeños a menos de 10 en perros gigantes de razas reconocidas por el American Kennel Club. El análisis identifica 72 variables asociadas con mortalidad y diferencias geográficas que guardan relación con patrones de mortalidad humana."
     ],
-    "impact": "Identifica una conexión concreta entre senescencia inmunitaria y alteraciones de los vasos pulmonares. Aporta una vía para investigar cómo interrumpir ese daño en modelos experimentales.",
-    "limit": "Las intervenciones descritas son preclínicas. Un resultado en hipertensión pulmonar por hipoxia no demuestra rejuvenecimiento general, mayor longevidad ni eficacia o seguridad de una terapia en personas.",
-    "slug": "un-circuito-de-senescencia-contribuye-al-dano-vascular-pulmonar-en-ratones",
-    "date": "23 de octubre de 2026",
-    "sort": "2026-10-23",
+    "impact": "Los perros comparten ambientes y enfermedades relacionadas con la edad con las personas. Esta cohorte permite plantear nuevas preguntas sobre envejecimiento en condiciones de vida reales.",
+    "limit": "Las asociaciones no demuestran causalidad. Parte de los datos y las fechas de muerte proceden de los cuidadores. No se prueba una intervención ni se pueden trasladar las cifras de supervivencia a personas.",
+    "slug": "mas-de-41-000-perros-ayudan-a-explorar-que-se-asocia-con-una-vida-mas-larga",
+    "date": "27 de octubre de 2026",
+    "sort": "2026-10-27",
+    "added_sort": "2026-10-28-00000034",
     "archive": false,
     "minutes": 1,
     "author": "Alma Guerra",
     "source": {
-      "pmid": "42924848",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42924848/",
-      "doi": "10.1161/JAHA.126.049236",
-      "journal": "Journal of the American Heart Association",
+      "pmid": "42945030",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42945030/",
+      "doi": "10.1007/s11357-026-02448-9",
+      "journal": "GeroScience",
       "authors": [
-        "Yan Li",
-        "Tianfan Zhu",
-        "Donghai Lin",
-        "Chenhao Cao",
-        "Qiang Wang",
-        "Jie Wang",
-        "Li Hu",
-        "Yanfang Yu",
-        "Huijie Huang",
-        "Dong Wei",
-        "Feng Chen"
+        "Weihsueh A Chiu",
+        "Matthew D Dunbar",
+        "Gang Han",
+        "Benjamin R Harrison",
+        "Amber J Keyser",
+        "Paul E Litwin",
+        "Dog Aging Project Consortium",
+        "Daniel E L Promislow",
+        "Kate E Creevy"
       ],
-      "title": "Thioredoxin-Interacting Protein-Regulated in Development and DNA Damage-Response 1-Driven Macrophage Senescence Promotes Hypoxia-Induced Pulmonary Hypertension.",
-      "publication_date": "2026 Oct 23"
+      "title": "Factors associated with longevity in companion dogs: initial findings from the Dog Aging Project.",
+      "publication_date": "2026 Oct 27"
     }
   },
   {
@@ -192,6 +107,7 @@
     "slug": "mapk15-conecta-la-senescencia-de-las-celulas-del-corazon-con-la-fibrilacion-auricular",
     "date": "23 de octubre de 2026",
     "sort": "2026-10-23",
+    "added_sort": "2026-10-26-00000033",
     "archive": false,
     "minutes": 1,
     "author": "Alma Guerra",
@@ -223,6 +139,1058 @@
     }
   },
   {
+    "art": "cell",
+    "published_at": "2026-10-26",
+    "retrieved_at": "2026-10-26",
+    "reading_basis": "abstract",
+    "id": "42924848",
+    "topic": "Senescencia",
+    "group": "preclinical",
+    "evidence": "Preclínica",
+    "model": "Modelos de hipertensión pulmonar por hipoxia en ratones y experimentos celulares",
+    "title": "Un circuito de senescencia contribuye al daño vascular pulmonar en ratones",
+    "summary": "Un estudio vincula las proteínas TXNIP y REDD1 con la senescencia de macrófagos y la remodelación de arterias pulmonares en modelos de falta de oxígeno. No se ha probado una terapia en personas.",
+    "body": [
+      "La hipertensión pulmonar implica cambios en las arterias del pulmón y puede comprometer la función del corazón. Una investigación ha estudiado cómo la falta de oxígeno afecta a los macrófagos que rodean estos vasos. El trabajo combina análisis de datos con modelos animales y experimentos celulares.",
+      "Los autores encuentran que TXNIP se une a REDD1 y la estabiliza, favoreciendo la senescencia de los macrófagos. El medio procedente de estas células aumenta la proliferación y migración de células musculares lisas de la arteria pulmonar. En ratones, eliminar Txnip de células de la línea mieloide atenúa la remodelación vascular inducida por hipoxia."
+    ],
+    "impact": "Identifica una conexión concreta entre senescencia inmunitaria y alteraciones de los vasos pulmonares. Aporta una vía para investigar cómo interrumpir ese daño en modelos experimentales.",
+    "limit": "Las intervenciones descritas son preclínicas. Un resultado en hipertensión pulmonar por hipoxia no demuestra rejuvenecimiento general, mayor longevidad ni eficacia o seguridad de una terapia en personas.",
+    "slug": "un-circuito-de-senescencia-contribuye-al-dano-vascular-pulmonar-en-ratones",
+    "date": "23 de octubre de 2026",
+    "sort": "2026-10-23",
+    "added_sort": "2026-10-26-00000032",
+    "archive": false,
+    "minutes": 1,
+    "author": "Alma Guerra",
+    "source": {
+      "pmid": "42924848",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42924848/",
+      "doi": "10.1161/JAHA.126.049236",
+      "journal": "Journal of the American Heart Association",
+      "authors": [
+        "Yan Li",
+        "Tianfan Zhu",
+        "Donghai Lin",
+        "Chenhao Cao",
+        "Qiang Wang",
+        "Jie Wang",
+        "Li Hu",
+        "Yanfang Yu",
+        "Huijie Huang",
+        "Dong Wei",
+        "Feng Chen"
+      ],
+      "title": "Thioredoxin-Interacting Protein-Regulated in Development and DNA Damage-Response 1-Driven Macrophage Senescence Promotes Hypoxia-Induced Pulmonary Hypertension.",
+      "publication_date": "2026 Oct 23"
+    }
+  },
+  {
+    "art": "cell",
+    "published_at": "2026-10-26",
+    "retrieved_at": "2026-10-26",
+    "reading_basis": "abstract",
+    "id": "42925474",
+    "topic": "Metabolismo",
+    "group": "observational",
+    "evidence": "Observacional",
+    "model": "Análisis retrospectivo de 186 muestras de tejido de cuatro cohortes públicas",
+    "title": "FOXO3 muestra señales distintas en músculo envejecido y tejido articular",
+    "summary": "Un análisis de 186 muestras encuentra patrones opuestos de expresión de FOXO3 en músculo envejecido y tejido sinovial con artrosis de rodilla. El resultado apunta a diferencias entre tejidos, sin probar un tratamiento.",
+    "body": [
+      "Un análisis retrospectivo ha comparado conjuntos de datos públicos sobre tejido sinovial de rodillas con artrosis y músculo esquelético envejecido. El trabajo reúne 40 muestras de dos cohortes sinoviales y 146 de dos cohortes musculares. Su objetivo es estudiar cómo se relaciona FOXO3 con las redes del metabolismo y la respuesta inmunitaria.",
+      "Los autores describen menor expresión de FOXO3 en el tejido sinovial con artrosis y mayor expresión en el músculo envejecido. Sus asociaciones con las vías metabólicas e inmunitarias también difieren. Estos patrones ayudan a plantear hipótesis sobre la importancia del entorno de cada tejido al investigar el envejecimiento."
+    ],
+    "impact": "Advierte de que una misma señal molecular puede relacionarse de forma distinta con tejidos diferentes. Esto puede orientar investigaciones que eviten tratar el envejecimiento como un proceso uniforme.",
+    "limit": "Es un análisis observacional de datos ya existentes. No demuestra causalidad ni que activar FOXO3 o tomar precursores de NAD mejore la salud. Las estrategias que propone la publicación son hipótesis, no tratamientos validados.",
+    "slug": "foxo3-muestra-senales-distintas-en-musculo-envejecido-y-tejido-articular",
+    "date": "24 de octubre de 2026",
+    "sort": "2026-10-24",
+    "added_sort": "2026-10-26-00000031",
+    "archive": false,
+    "minutes": 1,
+    "author": "Alma Guerra",
+    "source": {
+      "pmid": "42925474",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42925474/",
+      "doi": "10.1007/s12013-026-02212-y",
+      "journal": "Cell biochemistry and biophysics",
+      "authors": [
+        "Peng Zhang",
+        "Xiao Wang",
+        "Xiaotao Shi",
+        "Yanhao Yuan",
+        "Peizhao Wang",
+        "Renkun Zhao",
+        "Dongdong Xie",
+        "Honglüe Tan",
+        "Guorui Cao"
+      ],
+      "title": "Divergent Immunometabolic Regulatory Networks Mediated by FOXO3 During Musculoskeletal Aging: Implications for Tissue-Adapted Precision Therapeutics.",
+      "publication_date": "2026 Oct 24"
+    }
+  },
+  {
+    "id": "42925940",
+    "topic": "Senescencia",
+    "art": "cell",
+    "group": "preclinical",
+    "evidence": "Preclínica",
+    "model": "Ratones y cultivos de fibroblastos y macrófagos",
+    "title": "Un senolítico reduce la fibrosis de la piel tras radiación en ratones",
+    "summary": "Un estudio identifica un circuito entre fibroblastos y macrófagos que favorece la fibrosis. Bloquearlo mediante la eliminación de células senescentes mejora el daño en un modelo animal.",
+    "body": [
+      "Un equipo ha estudiado cómo la senescencia celular contribuye a la fibrosis cutánea que puede aparecer tras la radioterapia. El trabajo combina un modelo de ratón con experimentos celulares. Su pregunta es cómo fibroblastos y macrófagos mantienen una respuesta que favorece la acumulación de colágeno.",
+      "Los autores describen un circuito de retroalimentación: las señales liberadas por fibroblastos senescentes inducen cambios en otras células y refuerzan la producción de IL-6 y colágeno. En ratones, el senolítico ABT-263 redujo la fibrosis dérmica, las poblaciones celulares implicadas y la expresión de IL-6."
+    ],
+    "impact": "Relaciona la senescencia con un daño tisular concreto y propone un mecanismo que merece más investigación.",
+    "limit": "Es una investigación preclínica sobre daño por radiación. No demuestra rejuvenecimiento general, mayor longevidad ni eficacia o seguridad en personas.",
+    "published_at": "2026-10-26",
+    "retrieved_at": "2026-10-26",
+    "reading_basis": "abstract",
+    "slug": "un-senolitico-reduce-la-fibrosis-de-la-piel-tras-radiacion-en-ratones",
+    "date": "24 de octubre de 2026",
+    "sort": "2026-10-24",
+    "added_sort": "2026-10-26-00000030",
+    "archive": false,
+    "minutes": 1,
+    "author": "Alma Guerra",
+    "source": {
+      "pmid": "42925940",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42925940/",
+      "doi": "10.1016/j.ijrobp.2026.10.013",
+      "journal": "International journal of radiation oncology, biology, physics",
+      "authors": [
+        "Eun Joo Chung",
+        "Santwana Kc",
+        "Seokjoo Kwon",
+        "Ayla White",
+        "Joon-Yong Chung",
+        "Youngjoo Jung",
+        "Heesu Ahn",
+        "Hong Zhang",
+        "Edmund Cauley",
+        "Deborah E Citrin"
+      ],
+      "title": "A senescence-driven fibroblast-macrophage feed-forward circuit promotes radiation induced cutaneous fibrosis.",
+      "publication_date": "2026 Oct 24"
+    }
+  },
+  {
+    "id": "37118425",
+    "topic": "Metabolismo",
+    "art": "rings",
+    "evidence": "Ensayo en personas",
+    "model": "CALERIE: 220 adultos sin obesidad; dos años",
+    "title": "CALERIE: comer menos modificó el ritmo de un reloj, pero no todos los marcadores",
+    "summary": "El ensayo aleatorizado encontró un efecto pequeño en DunedinPACE y resultados no significativos en otras estimaciones de edad biológica.",
+    "body": [
+      "CALERIE asignó aleatoriamente a 220 adultos sin obesidad a una intervención orientada a reducir un 25 % la ingesta calórica o a un grupo de control durante dos años. Un análisis posterior estudió sus efectos en medidas de metilación del ADN.",
+      "La intervención ralentizó el ritmo estimado por DunedinPACE. En cambio, no produjo cambios significativos en estimaciones de edad biológica como PhenoAge y GrimAge. Los tamaños de efecto fueron pequeños. La diferencia entre relojes recuerda que miden aspectos relacionados, pero no intercambiables, de la biología del envejecimiento."
+    ],
+    "impact": "Ofrece una prueba humana aleatorizada de que un indicador molecular puede responder a una intervención.",
+    "limit": "El análisis no demuestra más supervivencia ni menos enfermedad. La reducción del 25 % era el objetivo asignado, no la adherencia garantizada.",
+    "slug": "calerie-comer-menos-modifico-el-ritmo-de-un-reloj-pero-no-todos-los-marcadores",
+    "date": "marzo de 2023",
+    "sort": "2023-03-00",
+    "published_at": "2026-10-25",
+    "added_sort": "2026-10-25-00000029",
+    "archive": true,
+    "group": "clinical",
+    "minutes": 1,
+    "author": "Alma Guerra",
+    "source": {
+      "pmid": "37118425",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37118425/",
+      "doi": "10.1038/s43587-022-00357-y",
+      "journal": "Nature aging",
+      "authors": [
+        "R Waziry",
+        "C P Ryan",
+        "D L Corcoran",
+        "K M Huffman",
+        "M S Kobor"
+      ],
+      "title": "Effect of long-term caloric restriction on DNA methylation measures of biological aging in healthy adults from the CALERIE trial.",
+      "publication_date": "2023 Mar"
+    }
+  },
+  {
+    "id": "39020175",
+    "topic": "Inflamación",
+    "art": "molecule",
+    "evidence": "Preclínica",
+    "model": "Ratones de ambos sexos",
+    "title": "Bloquear IL-11 extendió la vida de ratones: por qué el hallazgo sigue siendo un hito",
+    "summary": "El estudio de 2024 conecta una señal inflamatoria con fragilidad, metabolismo y supervivencia, incluso al intervenir en edades avanzadas.",
+    "body": [
+      "La interleucina 11 aumenta en distintos tejidos de ratones con la edad. Este trabajo investigó su papel mediante eliminación genética y tratamiento con anticuerpos dirigidos a esa señal.",
+      "Administrar anti-IL-11 desde las setenta y cinco semanas mejoró metabolismo y función muscular, y redujo biomarcadores de envejecimiento y fragilidad. En los experimentos de supervivencia, la mediana de vida aumentó un 22,5 % en machos y un 25 % en hembras tratados. La eliminación genética también prolongó la vida. Es un ejemplo relevante de intervención tardía sobre una vía inflamatoria."
+    ],
+    "impact": "Convirtió IL-11 en una diana destacada para estudiar mecanismos de envejecimiento.",
+    "limit": "Los porcentajes pertenecen a ratones de ese estudio. No predicen cuánto viviría una persona ni acreditan un tratamiento antienvejecimiento humano.",
+    "slug": "bloquear-il-11-extendio-la-vida-de-ratones-por-que-el-hallazgo-sigue-siendo-un-hito",
+    "date": "agosto de 2024",
+    "sort": "2024-08-00",
+    "published_at": "2026-10-25",
+    "added_sort": "2026-10-25-00000028",
+    "archive": true,
+    "group": "preclinical",
+    "minutes": 1,
+    "author": "Alma Guerra",
+    "source": {
+      "pmid": "39020175",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39020175/",
+      "doi": "10.1038/s41586-024-07701-9",
+      "journal": "Nature",
+      "authors": [
+        "Anissa A Widjaja",
+        "Wei-Wen Lim",
+        "Sivakumar Viswanathan",
+        "Sonia Chothani",
+        "Ben Corden"
+      ],
+      "title": "Inhibition of IL-11 signalling extends mammalian healthspan and lifespan.",
+      "publication_date": "2024 Aug"
+    }
+  },
+  {
+    "id": "36599349",
+    "topic": "Bases científicas",
+    "art": "rings",
+    "evidence": "Revisión científica",
+    "model": "Marco conceptual publicado en Cell",
+    "title": "Las doce claves del envejecimiento: el mapa para entender las noticias de longevidad",
+    "summary": "López-Otín, Blasco, Partridge, Serrano y Kroemer amplían un marco que conecta daños, respuestas celulares y deterioro del organismo.",
+    "body": [
+      "La revisión de 2023 organiza la biología del envejecimiento en doce procesos conectados. Incluye inestabilidad del genoma, acortamiento de telómeros, alteraciones epigenéticas, pérdida de proteostasis, fallo de macroautofagia y desregulación de sensores de nutrientes.",
+      "El mapa se completa con disfunción mitocondrial, senescencia celular, agotamiento de células madre, comunicación intercelular alterada, inflamación crónica y disbiosis. Los autores proponen criterios experimentales para considerar que un proceso contribuye al envejecimiento, más allá de aparecer junto a él. La utilidad de este marco es conectar resultados dispersos y hacer mejores preguntas sobre sus mecanismos."
+    ],
+    "impact": "Proporciona una base común para leer con contexto las distintas líneas de investigación.",
+    "limit": "Es una revisión y una propuesta conceptual. La lista no es una receta terapéutica ni implica que cada mecanismo tenga una solución clínica.",
+    "slug": "las-doce-claves-del-envejecimiento-el-mapa-para-entender-las-noticias-de-longevidad",
+    "date": "19 de enero de 2023",
+    "sort": "2023-01-19",
+    "published_at": "2026-10-25",
+    "added_sort": "2026-10-25-00000027",
+    "archive": true,
+    "group": "review",
+    "minutes": 1,
+    "author": "Alma Guerra",
+    "source": {
+      "pmid": "36599349",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36599349/",
+      "doi": "10.1016/j.cell.2022.11.001",
+      "journal": "Cell",
+      "authors": [
+        "Carlos López-Otín",
+        "Maria A Blasco",
+        "Linda Partridge",
+        "Manuel Serrano",
+        "Guido Kroemer"
+      ],
+      "title": "Hallmarks of aging: An expanding universe.",
+      "publication_date": "2023 Jan 19"
+    }
+  },
+  {
+    "id": "38267706",
+    "topic": "Senescencia",
+    "art": "cell",
+    "evidence": "Preclínica",
+    "model": "Ratones envejecidos y modelos de alteración metabólica",
+    "title": "Las CAR-T senolíticas logran efectos duraderos contra el deterioro metabólico en ratones",
+    "summary": "El trabajo de Corina Amor y colaboradores adapta inmunoterapia celular para reconocer células senescentes que expresan uPAR.",
+    "body": [
+      "Las CAR-T son células inmunitarias modificadas para reconocer una diana. En este trabajo, el equipo las dirige a uPAR, una proteína que aumenta en determinadas células senescentes.",
+      "En ratones envejecidos, la intervención mejoró tolerancia a la glucosa y capacidad de ejercicio. También se estudió en animales sometidos a una dieta rica en grasas. Una sola administración logró efectos terapéuticos y preventivos mantenidos, un resultado distinto del uso repetido que suelen requerir moléculas pequeñas. El enfoque aprovecha la persistencia de las células inmunitarias para vigilar poblaciones senescentes."
+    ],
+    "impact": "Es un hito en el desarrollo de inmunoterapias contra consecuencias de la senescencia.",
+    "limit": "Los resultados pertenecen a ratones. La selección de dianas, la seguridad y la duración deben evaluarse antes de extrapolarlos a personas.",
+    "slug": "las-car-t-senoliticas-logran-efectos-duraderos-contra-el-deterioro-metabolico-en-ratones",
+    "date": "marzo de 2024",
+    "sort": "2024-03-00",
+    "published_at": "2026-10-25",
+    "added_sort": "2026-10-25-00000026",
+    "archive": true,
+    "group": "preclinical",
+    "minutes": 1,
+    "author": "Alma Guerra",
+    "source": {
+      "pmid": "38267706",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38267706/",
+      "doi": "10.1038/s43587-023-00560-5",
+      "journal": "Nature aging",
+      "authors": [
+        "Corina Amor",
+        "Inés Fernández-Maestre",
+        "Saria Chowdhury",
+        "Yu-Jui Ho"
+      ],
+      "title": "Prophylactic and long-lasting efficacy of senolytic CAR T cells against age-related metabolic dysfunction.",
+      "publication_date": "2024 Mar"
+    }
+  },
+  {
+    "id": "39900648",
+    "topic": "Metabolismo",
+    "art": "molecule",
+    "evidence": "Ensayo en personas",
+    "model": "Análisis posterior de 777 participantes de DO-HEALTH",
+    "title": "Omega-3 y relojes epigenéticos: un efecto pequeño que exige una lectura precisa",
+    "summary": "Un análisis de tres años de DO-HEALTH detecta cambios modestos en algunos marcadores de envejecimiento, sin demostrar más años de vida.",
+    "body": [
+      "Un análisis posterior del ensayo DO-HEALTH estudió a 777 participantes durante tres años. Evaluó omega-3, vitamina D y un programa de ejercicio doméstico mediante cuatro medidas de metilación del ADN.",
+      "Omega-3 mostró un efecto pequeño en tres relojes. La combinación de las tres intervenciones tuvo un efecto adicional en PhenoAge. Las diferencias se traducían en unos 2,9 a 3,8 meses en esas medidas a lo largo del periodo. Esa cifra describe el comportamiento de indicadores moleculares, no meses de vida ganados ni un rejuvenecimiento uniforme de todos los órganos."
+    ],
+    "impact": "Aporta evidencia experimental humana sobre la posibilidad de modificar algunos biomarcadores.",
+    "limit": "Es un análisis post hoc y los resultados dependen del reloj utilizado. No prueba prolongación de vida ni beneficio clínico equivalente.",
+    "slug": "omega-3-y-relojes-epigeneticos-un-efecto-pequeno-que-exige-una-lectura-precisa",
+    "date": "marzo de 2025",
+    "sort": "2025-03-00",
+    "published_at": "2026-10-25",
+    "added_sort": "2026-10-25-00000025",
+    "archive": true,
+    "group": "clinical",
+    "minutes": 1,
+    "author": "Alma Guerra",
+    "source": {
+      "pmid": "39900648",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39900648/",
+      "doi": "10.1038/s43587-024-00793-y",
+      "journal": "Nature aging",
+      "authors": [
+        "Heike A Bischoff-Ferrari",
+        "Stephanie Gängler",
+        "Maud Wieczorek",
+        "Daniel W Belsky"
+      ],
+      "title": "Individual and additive effects of vitamin D, omega-3 and exercise on DNA methylation clocks of biological aging in older adults from the DO-HEALTH trial.",
+      "publication_date": "2025 Mar"
+    }
+  },
+  {
+    "id": "42490474",
+    "topic": "Cerebro",
+    "art": "neuron",
+    "evidence": "Muestras humanas",
+    "model": "Hipocampo humano a lo largo de la vida adulta",
+    "title": "El ADN del hipocampo cambia de organización a medida que envejecemos",
+    "summary": "Un mapa de varios niveles moleculares relaciona la edad con cambios en células de soporte y arquitectura del genoma.",
+    "body": [
+      "Cómo se pliega el ADN también condiciona qué genes pueden activarse. Este estudio analiza expresión de genes, accesibilidad de cromatina, metilación y arquitectura tridimensional del genoma en hipocampo humano.",
+      "Entre los cincuenta y setenta y cinco años se observó una reducción de microglía de origen embrionario y mayor presencia de células similares a microglía derivada de monocitos. Los astrocitos, incluidas poblaciones relacionadas con transmisión sináptica, disminuían con la edad. En varios tipos celulares aparecía una erosión de la organización tridimensional del genoma. Son cambios coordinados que ayudan a entender la diversidad del envejecimiento cerebral."
+    ],
+    "impact": "Añade la estructura espacial del ADN al mapa del deterioro de distintos tipos celulares.",
+    "limit": "Es un análisis de tejidos. No demuestra que reorganizar cromatina revierta el deterioro cognitivo.",
+    "slug": "el-adn-del-hipocampo-cambia-de-organizacion-a-medida-que-envejecemos",
+    "date": "23 de julio de 2026",
+    "sort": "2026-07-23",
+    "published_at": "2026-10-25",
+    "added_sort": "2026-10-25-00000024",
+    "archive": false,
+    "group": "observational",
+    "minutes": 1,
+    "author": "Alma Guerra",
+    "source": {
+      "pmid": "42490474",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42490474/",
+      "doi": "10.1126/science.adt8307",
+      "journal": "Science (New York, N.Y.)",
+      "authors": [
+        "Nathan R Zemke",
+        "Seoyeon Lee",
+        "Sainath Mamde"
+      ],
+      "title": "Epigenetic and 3D genome reprogramming during the aging of the human hippocampus.",
+      "publication_date": "2026 Jul 23"
+    }
+  },
+  {
+    "id": "42393307",
+    "topic": "Salud femenina",
+    "art": "rings",
+    "evidence": "Preclínica + muestras humanas",
+    "model": "Tejido humano; intervenciones en ratones y ratas",
+    "title": "IL-11 conecta rigidez del tejido y pérdida de función ovárica",
+    "summary": "Un estudio investiga cómo cambia la matriz del ovario y logra reducir su rigidez en roedores envejecidos.",
+    "body": [
+      "El entorno físico de las células influye en la función de los órganos. Los autores midieron una mayor rigidez de la matriz ovárica humana con la edad y en distintas situaciones patológicas.",
+      "La integración de datos de proteínas y expresión genética identificó IL-11 como promotora de activación de fibroblastos y depósito de matriz extracelular. Eliminar un componente de su receptor en ratones atenuó rigidez y pérdida funcional. En ratones y ratas mayores, nanopartículas que transportaban ARN para reducir Il11 mejoraron fertilidad y disminuyeron rigidez. Los resultados relacionan inflamación, mecánica del tejido y envejecimiento reproductivo."
+    ],
+    "impact": "Propone una diana concreta para estudiar la conservación de la función ovárica.",
+    "limit": "Las mejoras de fertilidad son de roedores. El estudio no demuestra retraso de menopausia ni recuperación de fertilidad en mujeres.",
+    "slug": "il-11-conecta-rigidez-del-tejido-y-perdida-de-funcion-ovarica",
+    "date": "julio de 2026",
+    "sort": "2026-07-00",
+    "published_at": "2026-10-25",
+    "added_sort": "2026-10-25-00000023",
+    "archive": false,
+    "group": "preclinical",
+    "minutes": 1,
+    "author": "Alma Guerra",
+    "source": {
+      "pmid": "42393307",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42393307/",
+      "doi": "10.1038/s43587-026-01159-2",
+      "journal": "Nature aging",
+      "authors": [
+        "Meng Wu",
+        "Qingqing Zhu",
+        "Jiaqiang Xiong"
+      ],
+      "title": "Modulating IL-11-dependent matrix stiffness to delay ovarian aging.",
+      "publication_date": "2026 Jul"
+    }
+  },
+  {
+    "id": "42105758",
+    "topic": "Biomarcadores",
+    "art": "spectrum",
+    "evidence": "Personas · observacional",
+    "model": "2.019 personas de 18 a 91 años",
+    "title": "Nuevos relojes combinan moléculas y capacidad física para medir el envejecimiento",
+    "summary": "Una cohorte china integra información clínica, fisiológica y molecular para representar diferencias entre personas y órganos.",
+    "body": [
+      "La edad biológica no se observa directamente como una fecha de nacimiento. El estudio mCAS combina datos de 2.019 personas de entre dieciocho y noventa y un años para construir varias aproximaciones.",
+      "Los autores desarrollaron un reloj de capacidad clínica y fisiológica, otro multimodal y relojes asociados a órganos. Los perfiles de proteínas plasmáticas funcionaron como indicadores de capacidad fisiológica, además de reflejar edad cronológica. El trabajo también identificó factores de coagulación acumulados con la edad y estudió su relación con senescencia e inflamación. La intención es acercar los marcadores moleculares al funcionamiento del organismo."
+    ],
+    "impact": "Ofrece un marco para estudiar envejecimiento a varias escalas con una referencia funcional.",
+    "limit": "La predicción de edad o función no convierte el reloj en un criterio clínico validado para decidir tratamientos.",
+    "slug": "nuevos-relojes-combinan-moleculas-y-capacidad-fisica-para-medir-el-envejecimiento",
+    "date": "9 de julio de 2026",
+    "sort": "2026-07-09",
+    "published_at": "2026-10-25",
+    "added_sort": "2026-10-25-00000022",
+    "archive": false,
+    "group": "observational",
+    "minutes": 1,
+    "author": "Alma Guerra",
+    "source": {
+      "pmid": "42105758",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42105758/",
+      "doi": "10.1016/j.cell.2026.04.025",
+      "journal": "Cell",
+      "authors": [
+        "Jiaming Li",
+        "Beier Jiang",
+        "Wei Zhang"
+      ],
+      "title": "Multimodal clocks of human aging.",
+      "publication_date": "2026 Jul 09"
+    }
+  },
+  {
+    "id": "42380622",
+    "topic": "Reprogramación",
+    "art": "dna",
+    "evidence": "Preclínica + células humanas",
+    "model": "Ratones y células sanguíneas humanas fuera del cuerpo",
+    "title": "Silenciar la alarma de telómeros dañados mejora células madre sanguíneas experimentales",
+    "summary": "Oligonucleótidos antisentido reducen señales de daño y senescencia sin plantearse simplemente alargar los telómeros.",
+    "body": [
+      "Los telómeros dañados pueden activar respuestas persistentes que favorecen inflamación y senescencia. En lugar de alargarlos, este trabajo interviene sobre ARN teloméricos necesarios para sostener esa señal de daño.",
+      "Los oligonucleótidos antisentido redujeron la respuesta telomérica, la inflamación y problemas de producción de sangre en ratones con déficit de telomerasa y en ratones viejos normales. Las células madre hematopoyéticas mejoraron su capacidad de repoblación. El tratamiento fuera del organismo también mejoró funciones de células humanas de donantes mayores. Es una estrategia mecanísticamente distinta de restaurar la longitud del extremo cromosómico."
+    ],
+    "impact": "Abre una vía para investigar trastornos de los telómeros y envejecimiento hematopoyético.",
+    "limit": "Las células humanas se trataron ex vivo. No se han demostrado aquí seguridad y eficacia mediante administración a personas.",
+    "slug": "silenciar-la-alarma-de-telomeros-danados-mejora-celulas-madre-sanguineas-experimentales",
+    "date": "julio de 2026",
+    "sort": "2026-07-00",
+    "published_at": "2026-10-25",
+    "added_sort": "2026-10-25-00000021",
+    "archive": false,
+    "group": "preclinical",
+    "minutes": 1,
+    "author": "Alma Guerra",
+    "source": {
+      "pmid": "42380622",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42380622/",
+      "doi": "10.1038/s43587-026-01136-9",
+      "journal": "Nature aging",
+      "authors": [
+        "Alessia Oppezzo",
+        "Sara Sepe",
+        "Giada Cicio"
+      ],
+      "title": "Therapeutic inhibition of telomeric DNA damage response rescues hematopoietic dysfunction driven by telomere shortening and aging.",
+      "publication_date": "2026 Jul"
+    }
+  },
+  {
+    "id": "42463951",
+    "topic": "Inflamación",
+    "art": "vessel",
+    "evidence": "Preclínica",
+    "model": "Células madre hematopoyéticas y ratones",
+    "title": "La memoria inflamatoria de las células de la sangre puede impulsar el deterioro de otros tejidos",
+    "summary": "SIRT3 regula una respuesta de inmunidad entrenada que se vuelve perjudicial con la edad en modelos de ratón.",
+    "body": [
+      "La inmunidad entrenada permite que células inmunitarias respondan de forma más intensa tras una exposición. Este estudio propone que una versión desajustada de ese proceso contribuye a la inflamación del envejecimiento.",
+      "SIRT3, una enzima mitocondrial abundante en células madre hematopoyéticas pero reducida con la edad, limitaba esa respuesta. Aumentar su expresión mejoró el funcionamiento de estas células en ratones y atenuó deterioros de cognición y movilidad mediante cambios en sus descendientes mieloides. El resultado conecta el envejecimiento de la producción de sangre con efectos en tejidos distantes."
+    ],
+    "impact": "Señala las células madre hematopoyéticas como posibles coordinadoras de inflamación sistémica.",
+    "limit": "La intervención se evaluó en ratones. No demuestra que activar SIRT3 produzca beneficios equivalentes en humanos.",
+    "slug": "la-memoria-inflamatoria-de-las-celulas-de-la-sangre-puede-impulsar-el-deterioro-de-otros-tejidos",
+    "date": "septiembre de 2026",
+    "sort": "2026-09-00",
+    "published_at": "2026-10-25",
+    "added_sort": "2026-10-25-00000020",
+    "archive": false,
+    "group": "preclinical",
+    "minutes": 1,
+    "author": "Alma Guerra",
+    "source": {
+      "pmid": "42463951",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42463951/",
+      "doi": "10.1038/s43587-026-01175-2",
+      "journal": "Nature aging",
+      "authors": [
+        "Wei-Chieh Mu",
+        "Marine Barthez",
+        "Yufan Feng"
+      ],
+      "title": "Trained immunity links hematopoietic stem cell aging to aging-associated inflammation.",
+      "publication_date": "2026 Sep"
+    }
+  },
+  {
+    "id": "42581103",
+    "topic": "Metabolismo",
+    "art": "mito",
+    "evidence": "Preclínica",
+    "model": "Ratones y organoides intestinales",
+    "title": "La inflamación altera el combustible de las células madre del intestino",
+    "summary": "La señal TNF–TNFR1 conecta el entorno envejecido con menor capacidad de regeneración intestinal en modelos experimentales.",
+    "body": [
+      "Las células madre intestinales renuevan un tejido sometido a desgaste continuo. Este estudio muestra que un entorno sistémico envejecido puede transmitirles rasgos de deterioro mediante señales inflamatorias.",
+      "En experimentos con ratones, bloquear TNFR1 protegió células jóvenes frente al entorno viejo. En organoides, TNF redujo la formación de estructuras regenerativas y alteró las vías mitocondriales y la oxidación de ácidos grasos. Reforzar la fusión mitocondrial o contrarrestar inflamación mejoró funciones en los modelos estudiados. El mecanismo enlaza señales externas con la forma en que estas células obtienen energía."
+    ],
+    "impact": "Ayuda a explicar cómo la inflamación puede limitar la regeneración de un tejido.",
+    "limit": "Los resultados son preclínicos. No justifican utilizar antiinflamatorios o anticuerpos anti-TNF para frenar el envejecimiento.",
+    "slug": "la-inflamacion-altera-el-combustible-de-las-celulas-madre-del-intestino",
+    "date": "agosto de 2026",
+    "sort": "2026-08-00",
+    "published_at": "2026-10-25",
+    "added_sort": "2026-10-25-00000019",
+    "archive": false,
+    "group": "preclinical",
+    "minutes": 1,
+    "author": "Alma Guerra",
+    "source": {
+      "pmid": "42581103",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42581103/",
+      "doi": "10.1038/s43587-026-01170-7",
+      "journal": "Nature aging",
+      "authors": [
+        "Ruixuan Wang",
+        "Tahmineh Tabrizian",
+        "Donghai Wang"
+      ],
+      "title": "TNFR1 signaling connects inflammation to impaired fatty acid oxidation to drive intestinal stem cell aging.",
+      "publication_date": "2026 Aug"
+    }
+  },
+  {
+    "id": "42601407",
+    "topic": "Salud femenina",
+    "art": "rings",
+    "evidence": "Preclínica + datos humanos",
+    "model": "Cohortes humanas y experimentos en ratones",
+    "title": "Ejercicio y adiponectina: nuevas pistas sobre el envejecimiento de los ovarios",
+    "summary": "Datos de población se combinan con experimentos que identifican una vía hormonal relacionada con la función ovárica.",
+    "body": [
+      "El trabajo parte de análisis transversales en UK Biobank y NHANES, donde se observaron diferencias de actividad física según el estado menopáusico. Estas comparaciones no permiten establecer por sí solas qué causa qué.",
+      "En ratones, una mayor actividad física retrasó rasgos de envejecimiento ovárico y elevó la adiponectina en el ovario. Parte del efecto protector se redujo en animales deficientes en esa hormona. Además, el agonista AdipoRon retrasó el deterioro ovárico y extendió la vida reproductiva de ratones. La combinación de enfoques propone un mecanismo para investigar, pero mantiene separados los resultados humanos y animales."
+    ],
+    "impact": "Vincula una señal del metabolismo con la respuesta del ovario a la actividad física.",
+    "limit": "No demuestra que el ejercicio o AdipoRon retrasen la menopausia humana. Los datos de población son transversales.",
+    "slug": "ejercicio-y-adiponectina-nuevas-pistas-sobre-el-envejecimiento-de-los-ovarios",
+    "date": "septiembre de 2026",
+    "sort": "2026-09-00",
+    "published_at": "2026-10-25",
+    "added_sort": "2026-10-25-00000018",
+    "archive": false,
+    "group": "preclinical",
+    "minutes": 1,
+    "author": "Alma Guerra",
+    "source": {
+      "pmid": "42601407",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42601407/",
+      "doi": "10.1038/s43587-026-01177-0",
+      "journal": "Nature aging",
+      "authors": [
+        "Biao Li",
+        "Nana Zheng",
+        "Tong Luo"
+      ],
+      "title": "Physical activity delays ovarian aging in part through adiponectin-related signaling pathways.",
+      "publication_date": "2026 Sep"
+    }
+  },
+  {
+    "id": "42531412",
+    "topic": "Metabolismo",
+    "art": "cell",
+    "evidence": "Preclínica",
+    "model": "Atlas experimental de lisosomas en varios tejidos",
+    "title": "Los lisosomas acumulan con la edad metabolitos ligados a enfermedades de almacenamiento",
+    "summary": "El mapa de estos compartimentos celulares encuentra cambios diferentes en cerebro, corazón, músculo y tejido adiposo.",
+    "body": [
+      "Los lisosomas ayudan a degradar y reciclar componentes celulares. Un atlas multitejido muestra que los lisosomas envejecidos acumulan glicerofosfodiésteres y cistina, metabolitos vinculados a enfermedades de almacenamiento lisosomal.",
+      "Los niveles aumentaban con la edad antes del deterioro general del organismo. La restricción calórica atenuó estos cambios en corazón y músculo, pero no en cerebro. Esa diferencia es relevante: una intervención puede modificar el envejecimiento de forma desigual entre órganos. El estudio plantea conexiones mecanísticas entre enfermedades lisosomales de aparición temprana y procesos de deterioro asociados a la edad."
+    ],
+    "impact": "Señala metabolitos concretos para estudiar el fallo del reciclaje celular.",
+    "limit": "Compartir una firma metabólica no convierte el envejecimiento normal en una enfermedad de almacenamiento ni demuestra una solución clínica.",
+    "slug": "los-lisosomas-acumulan-con-la-edad-metabolitos-ligados-a-enfermedades-de-almacenamiento",
+    "date": "30 de julio de 2026",
+    "sort": "2026-07-30",
+    "published_at": "2026-10-25",
+    "added_sort": "2026-10-25-00000017",
+    "archive": false,
+    "group": "preclinical",
+    "minutes": 1,
+    "author": "Alma Guerra",
+    "source": {
+      "pmid": "42531412",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42531412/",
+      "doi": "10.1126/science.ady0832",
+      "journal": "Science (New York, N.Y.)",
+      "authors": [
+        "Anna M Puszynska",
+        "Thao P Nguyen",
+        "Andrew L Cangelosi"
+      ],
+      "title": "Atlas of lysosomal aging reveals a metabolite signature shared with lysosomal storage disorders.",
+      "publication_date": "2026 Jul 30"
+    }
+  },
+  {
+    "id": "42462036",
+    "topic": "Inflamación",
+    "art": "cell",
+    "evidence": "Preclínica + muestras humanas",
+    "model": "Ratones envejecidos y tejidos humanos",
+    "title": "Restaurar la retirada de neutrófilos viejos protege varios órganos en ratones",
+    "summary": "La señal EP2 en macrófagos residentes aparece como regulador de una limpieza inmunitaria que se deteriora con la edad.",
+    "body": [
+      "Los macrófagos residentes retiran células que han dejado de funcionar. Este estudio identifica un fallo en la eliminación de neutrófilos senescentes, controlado por el receptor EP2 de prostaglandina E2.",
+      "Reducir esa señal en ratones envejecidos preservó funciones mitocondriales y atenuó deterioros en cognición, músculo, corazón y otros sistemas. Los análisis apuntaron al hígado como un foco importante de cambio inmunitario. En tejidos humanos envejecidos o enfermos también se observaron más expresión de EP2 y neutrófilos senescentes. La inhibición farmacológica recuperó capacidad de limpieza en los experimentos."
+    ],
+    "impact": "Conecta el envejecimiento de distintos órganos con un mecanismo inmunitario compartido.",
+    "limit": "La protección funcional se demostró en modelos de ratón. Las observaciones humanas no acreditan una terapia eficaz.",
+    "slug": "restaurar-la-retirada-de-neutrofilos-viejos-protege-varios-organos-en-ratones",
+    "date": "16 de julio de 2026",
+    "sort": "2026-07-16",
+    "published_at": "2026-10-25",
+    "added_sort": "2026-10-25-00000016",
+    "archive": false,
+    "group": "preclinical",
+    "minutes": 1,
+    "author": "Alma Guerra",
+    "source": {
+      "pmid": "42462036",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42462036/",
+      "doi": "10.1126/science.aea3075",
+      "journal": "Science (New York, N.Y.)",
+      "authors": [
+        "Yuting Jessy Tan",
+        "Travis E Conley",
+        "Fuwen Yao"
+      ],
+      "title": "Restored clearance of senescent neutrophils by tissue-resident macrophages limits organ aging.",
+      "publication_date": "2026 Jul 16"
+    }
+  },
+  {
+    "id": "42399371",
+    "topic": "Metabolismo",
+    "art": "mito",
+    "evidence": "Personas · observacional",
+    "model": "Biopsias musculares y respuesta a ejercicio agudo",
+    "title": "El músculo de mayores entrenados conserva perfiles moleculares más próximos a los jóvenes",
+    "summary": "Un análisis de genes, lípidos y metabolitos conecta la forma física con el mantenimiento del metabolismo muscular.",
+    "body": [
+      "Los investigadores compararon músculo de adultos jóvenes y mayores con distintos niveles de función física, antes y después de una sesión de ejercicio submáximo. Estudiaron expresión genética, lípidos y metabolitos.",
+      "En mayores con actividad comparable a los jóvenes aparecía una menor expresión de genes relacionados con respiración celular y metabolismo energético. Aproximadamente la mitad de esas diferencias no se observaban en los mayores entrenados. La magnitud de ciertas respuestas al ejercicio también se relacionaba con la forma física. El mapa molecular conecta respiración mitocondrial, metabolismo de lípidos, respuesta al estrés y biología del NAD+."
+    ],
+    "impact": "Aporta detalles sobre qué rasgos moleculares acompañan al entrenamiento mantenido en edades avanzadas.",
+    "limit": "Comparar grupos no demuestra por sí solo causalidad. El resultado no significa que el músculo haya rejuvenecido un porcentaje concreto.",
+    "slug": "el-musculo-de-mayores-entrenados-conserva-perfiles-moleculares-mas-proximos-a-los-jovenes",
+    "date": "julio de 2026",
+    "sort": "2026-07-00",
+    "published_at": "2026-10-25",
+    "added_sort": "2026-10-25-00000015",
+    "archive": false,
+    "group": "observational",
+    "minutes": 1,
+    "author": "Alma Guerra",
+    "source": {
+      "pmid": "42399371",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42399371/",
+      "doi": "10.1038/s43587-026-01150-x",
+      "journal": "Nature aging",
+      "authors": [
+        "Georges E Janssens",
+        "Maria M Trętowicz",
+        "Lotte Grevendonk"
+      ],
+      "title": "Delayed molecular aging, preservation of energy metabolism and enhanced exercise response in exercise-trained human muscle.",
+      "publication_date": "2026 Jul"
+    }
+  },
+  {
+    "id": "42468523",
+    "topic": "Senescencia",
+    "art": "neuron",
+    "evidence": "Preclínica",
+    "model": "Neuronas cutáneas, fibroblastos y modelos animales",
+    "title": "Los nervios de la piel también participan en el mantenimiento del colágeno",
+    "summary": "La comunicación mediante glutamato conecta fibras nerviosas, senescencia de fibroblastos y envejecimiento cutáneo.",
+    "body": [
+      "El envejecimiento de la piel no depende solo de sus células estructurales. Este trabajo encuentra que las neuronas que la inervan participan en el mantenimiento del colágeno mediante liberación de glutamato.",
+      "Reducir la inervación aceleró rasgos de envejecimiento. Eliminar Nefh en un grupo de neuronas glutamatérgicas favoreció la senescencia de fibroblastos y la pérdida de colágeno. Los autores reconstruyeron una cadena de señales que incluye Cdk5 en las neuronas y Slc1a3 en los fibroblastos. Aportar glutamato mejoró algunos rasgos en sus experimentos. La aportación es una conexión funcional entre sistema nervioso y tejido cutáneo."
+    ],
+    "impact": "Abre preguntas sobre cómo proteger la comunicación entre nervios y células de la piel.",
+    "limit": "Los experimentos no prueban que aplicar o consumir glutamato rejuvenezca la piel humana.",
+    "slug": "los-nervios-de-la-piel-tambien-participan-en-el-mantenimiento-del-colageno",
+    "date": "3 de septiembre de 2026",
+    "sort": "2026-09-03",
+    "published_at": "2026-10-25",
+    "added_sort": "2026-10-25-00000014",
+    "archive": false,
+    "group": "preclinical",
+    "minutes": 1,
+    "author": "Alma Guerra",
+    "source": {
+      "pmid": "42468523",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42468523/",
+      "doi": "10.1016/j.cell.2026.06.032",
+      "journal": "Cell",
+      "authors": [
+        "Zhikai Wang",
+        "Xinping Jin",
+        "Yue Wu",
+        "Wenxiang Ding",
+        "Fengjiao Zhang"
+      ],
+      "title": "Skin-innervating glutamatergic neurons modulate aging.",
+      "publication_date": "2026 Sep 03"
+    }
+  },
+  {
+    "id": "42691178",
+    "topic": "Biomarcadores",
+    "art": "spectrum",
+    "evidence": "Personas · observacional",
+    "model": "335 mujeres seguidas durante ocho años",
+    "title": "Ocho años de seguimiento muestran que el envejecimiento molecular no sigue un guion único",
+    "summary": "La trayectoria de miles de genes y metabolitos difiere entre personas y está influida por ritmos, genética y exposiciones.",
+    "body": [
+      "Una fotografía molecular puede ocultar cómo cambia un organismo. Este estudio siguió la expresión de genes en sangre y los niveles de metabolitos de 335 mujeres durante ocho años.",
+      "Los niveles de 5.061 genes y 181 metabolitos cambiaron con el tiempo. Sin embargo, las trayectorias individuales se separaban a menudo del promedio del grupo. Los cambios también estaban relacionados con tipos celulares, genética, ritmos circadianos, estaciones y exposición a contaminantes. Entre las vías implicadas aparecían procesos cardiometabólicos y neurodegenerativos. La investigación refuerza el valor de observar a una misma persona repetidamente, en lugar de deducir toda su trayectoria de una comparación entre edades."
+    ],
+    "impact": "Ayuda a diseñar biomarcadores que tengan en cuenta la variación personal y temporal.",
+    "limit": "El seguimiento es observacional y se limita a mujeres. No determina qué cambios causan enfermedad.",
+    "slug": "ocho-anos-de-seguimiento-muestran-que-el-envejecimiento-molecular-no-sigue-un-guion-unico",
+    "date": "3 de septiembre de 2026",
+    "sort": "2026-09-03",
+    "published_at": "2026-10-25",
+    "added_sort": "2026-10-25-00000013",
+    "archive": false,
+    "group": "observational",
+    "minutes": 1,
+    "author": "Alma Guerra",
+    "source": {
+      "pmid": "42691178",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42691178/",
+      "doi": "10.1126/science.aed6452",
+      "journal": "Science (New York, N.Y.)",
+      "authors": [
+        "Julia S El-Sayed Moustafa",
+        "Anna Ramisch",
+        "Yasrab N Raza",
+        "Gwenael G R Leday",
+        "Yunlong Jiao"
+      ],
+      "title": "Longitudinal dynamics of gene expression and metabolomics in an aging population cohort.",
+      "publication_date": "2026 Sep 03"
+    }
+  },
+  {
+    "id": "42753698",
+    "topic": "Biomarcadores",
+    "art": "network",
+    "evidence": "Computacional",
+    "model": "17 tareas y 18 sistemas de IA",
+    "title": "LongevityBench pone a prueba lo que la IA sabe sobre envejecimiento",
+    "summary": "Un banco abierto de pruebas revela límites al interpretar datos biológicos y muestra el potencial de modelos especializados pequeños.",
+    "body": [
+      "Responder sobre longevidad y entender datos del envejecimiento son capacidades diferentes. LongevityBench reúne diecisiete tareas de cinco dominios biológicos para medir cómo interpretan estos datos los sistemas de inteligencia artificial.",
+      "El equipo comparó dieciocho sistemas de seis desarrolladores. Ninguno dominó todas las tareas y la predicción de edad basada en datos ómicos fue especialmente difícil. Después ajustó una familia de modelos especializados de entre 600 millones y 9.000 millones de parámetros, capaces de igualar o superar modelos mayores en estas pruebas. Se publican el banco de evaluación, los modelos y una interfaz de investigación."
+    ],
+    "impact": "Ofrece una forma más concreta de evaluar herramientas de IA para gerociencia.",
+    "limit": "Rendir bien en un banco de pruebas no demuestra descubrimientos válidos, seguridad clínica ni tratamientos eficaces.",
+    "slug": "longevitybench-pone-a-prueba-lo-que-la-ia-sabe-sobre-envejecimiento",
+    "date": "17 de septiembre de 2026",
+    "sort": "2026-09-17",
+    "published_at": "2026-10-25",
+    "added_sort": "2026-10-25-00000012",
+    "archive": false,
+    "group": "computational",
+    "minutes": 1,
+    "author": "Alma Guerra",
+    "source": {
+      "pmid": "42753698",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42753698/",
+      "doi": "10.1016/j.cell.2026.08.026",
+      "journal": "Cell",
+      "authors": [
+        "Alex Zhavoronkov",
+        "Vladimir Naumov",
+        "Denis Sidorenko",
+        "Alex Aliper",
+        "Vladimir Aladinskiy"
+      ],
+      "title": "An open benchmark and language models for AI in aging biology.",
+      "publication_date": "2026 Sep 17"
+    }
+  },
+  {
+    "id": "42784692",
+    "topic": "Senescencia",
+    "art": "cell",
+    "evidence": "Preclínica",
+    "model": "Modelos experimentales de fibrosis y cáncer",
+    "title": "Nanopartículas contra subtipos de células senescentes reducen fibrosis experimental",
+    "summary": "Una estrategia dirigida a P-selectina modifica nichos inflamatorios y favorece la entrada de células inmunitarias en tumores.",
+    "body": [
+      "Las células con rasgos senescentes no forman un grupo uniforme. Esa diversidad dificulta eliminarlas sin afectar otras funciones. Un estudio en Science identifica P-selectina en un subconjunto asociado a tejidos fibróticos y tumores.",
+      "Los investigadores diseñaron nanopartículas basadas en fucoidano que se unen a esa proteína. En sus modelos, la intervención redujo fibrosis y modificó poblaciones de macrófagos inmunosupresores. En tumores fibróticos, el remodelado del entorno facilitó la infiltración inmunitaria y mejoró la respuesta a tratamientos que actúan sobre puntos de control del sistema inmunitario. La propuesta se centra en estados celulares concretos, no en borrar toda la senescencia."
+    ],
+    "impact": "Aporta una vía para hacer más selectivas las intervenciones dirigidas a senescencia.",
+    "limit": "Los beneficios son experimentales. No se ha demostrado aquí que esta nanoterapia prolongue la vida humana.",
+    "slug": "nanoparticulas-contra-subtipos-de-celulas-senescentes-reducen-fibrosis-experimental",
+    "date": "24 de septiembre de 2026",
+    "sort": "2026-09-24",
+    "published_at": "2026-10-25",
+    "added_sort": "2026-10-25-00000011",
+    "archive": false,
+    "group": "preclinical",
+    "minutes": 1,
+    "author": "Alma Guerra",
+    "source": {
+      "pmid": "42784692",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42784692/",
+      "doi": "10.1126/science.aeg4791",
+      "journal": "Science (New York, N.Y.)",
+      "authors": [
+        "Clemens Hinterleitner",
+        "Valentin J A Barthet",
+        "Hailey V Goldberg",
+        "Kristen C Vogt",
+        "Ana Marie Perea"
+      ],
+      "title": "Senescence-directed nanotherapy ameliorates fibrosis and overcomes immune exclusion in cancer.",
+      "publication_date": "2026 Sep 24"
+    }
+  },
+  {
+    "id": "42686898",
+    "topic": "Cerebro",
+    "art": "neuron",
+    "evidence": "Muestras humanas",
+    "model": "Tejido de 20 personas mayores y datos de cohortes",
+    "title": "El cerebro humano envejecido recibe más células inmunitarias de lo esperado",
+    "summary": "Las mutaciones somáticas permiten rastrear células procedentes de la médula ósea dentro de la población de microglía.",
+    "body": [
+      "La microglía es una población de células inmunitarias del sistema nervioso. Para reconstruir su origen en humanos, los autores utilizaron mutaciones acumuladas como etiquetas naturales de cada linaje celular.",
+      "En las veinte personas mayores estudiadas encontraron indicios de entrada de células derivadas de la médula ósea. Los análisis de células individuales mostraron que podían adquirir rasgos similares a la microglía y representar una fracción importante de esta población. Además, datos de cohortes revelaron una asociación protectora entre muchos tipos de hematopoyesis clonal y enfermedad de Alzheimer. El trabajo cuestiona una imagen demasiado estática de la inmunidad cerebral."
+    ],
+    "impact": "Permite investigar cómo cambia el origen de las células inmunitarias del cerebro con la edad.",
+    "limit": "La asociación con Alzheimer no prueba protección causal ni justifica inducir hematopoyesis clonal.",
+    "slug": "el-cerebro-humano-envejecido-recibe-mas-celulas-inmunitarias-de-lo-esperado",
+    "date": "octubre de 2026",
+    "sort": "2026-10-00",
+    "published_at": "2026-10-25",
+    "added_sort": "2026-10-25-00000010",
+    "archive": false,
+    "group": "observational",
+    "minutes": 1,
+    "author": "Alma Guerra",
+    "source": {
+      "pmid": "42686898",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42686898/",
+      "doi": "10.1038/s41586-026-10939-0",
+      "journal": "Nature",
+      "authors": [
+        "Julia A Belk",
+        "Yaowen Zhang",
+        "Emily E Reilly",
+        "Quanming Shi",
+        "Daniel Dan Liu"
+      ],
+      "title": "Somatic mutations reveal the ontogeny of microglia in human ageing.",
+      "publication_date": "2026 Oct"
+    }
+  },
+  {
+    "id": "42768111",
+    "topic": "Senescencia",
+    "art": "spectrum",
+    "evidence": "Preclínica",
+    "model": "Pulmón, piel y heridas de ratón",
+    "title": "RamanOmics busca reconocer células senescentes sin destruir el tejido",
+    "summary": "La combinación de espectroscopía e información molecular detecta firmas de senescencia que varían entre piel y pulmón.",
+    "body": [
+      "Identificar una célula senescente con un único marcador puede ocultar su diversidad. RamanOmics combina imágenes hiperespectrales Raman con secuenciación y transcriptómica espacial para relacionar composición bioquímica y actividad genética.",
+      "Aplicado a piel y pulmón de ratones jóvenes y viejos, el método distinguió programas específicos de cada tejido. También encontró una firma espectral vinculada a lípidos en células positivas para p21. Un sistema de aprendizaje automático integró estas señales en un código multimodal para identificar estados celulares sin destruirlos. En heridas, el análisis permitió seguir cambios relacionados con reparación y diferenciación de la epidermis."
+    ],
+    "impact": "Mejorar la medición de senescencia puede ayudar a evaluar futuras terapias con mayor precisión.",
+    "limit": "La prueba se realizó en tejidos de ratón. Falta validar su utilidad diagnóstica en personas.",
+    "slug": "ramanomics-busca-reconocer-celulas-senescentes-sin-destruir-el-tejido",
+    "date": "octubre de 2026",
+    "sort": "2026-10-00",
+    "published_at": "2026-10-25",
+    "added_sort": "2026-10-25-00000009",
+    "archive": false,
+    "group": "preclinical",
+    "minutes": 1,
+    "author": "Alma Guerra",
+    "source": {
+      "pmid": "42768111",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42768111/",
+      "doi": "10.1038/s43587-026-01219-7",
+      "journal": "Nature aging",
+      "authors": [
+        "Ke Zhang",
+        "Xingjian Chen",
+        "Francesco Monticolo",
+        "Salvatore Sorrentino",
+        "Haochun Huang"
+      ],
+      "title": "RamanOmics decodes the spatial vibrational-molecular architecture of senescence in aging and repair.",
+      "publication_date": "2026 Oct"
+    }
+  },
+  {
+    "id": "42786309",
+    "topic": "Biomarcadores",
+    "art": "dna",
+    "evidence": "Preclínica + muestras humanas",
+    "model": "Riñones humanos y de ratón",
+    "title": "Un mapa epigenético sitúa el envejecimiento renal en las células de los túbulos",
+    "summary": "La enfermedad renal y el envejecimiento comparten alteraciones de identidad celular y organización del ADN.",
+    "body": [
+      "No todas las células de un riñón envejecen de la misma manera. Un atlas combina metilación del ADN, accesibilidad de la cromatina y expresión de genes en riñones humanos sanos o lesionados y riñones de ratones envejecidos.",
+      "Las células epiteliales de los túbulos enfermos mostraban señales marcadas de envejecimiento epigenético acelerado. Estas alteraciones se localizaban en zonas donde la reparación no se había resuelto. El estudio también encontró reorganizaciones de la estructura tridimensional del genoma y una pérdida de control sobre genes que sostienen la identidad celular. Son conexiones entre envejecimiento y reparación fallida, todavía sin una intervención clínica."
+    ],
+    "impact": "Ayuda a localizar qué poblaciones celulares pueden concentrar la vulnerabilidad renal.",
+    "limit": "Las semejanzas moleculares no demuestran que una intervención epigenética restaure la función del riñón.",
+    "slug": "un-mapa-epigenetico-situa-el-envejecimiento-renal-en-las-celulas-de-los-tubulos",
+    "date": "octubre de 2026",
+    "sort": "2026-10-00",
+    "published_at": "2026-10-25",
+    "added_sort": "2026-10-25-00000008",
+    "archive": false,
+    "group": "preclinical",
+    "minutes": 1,
+    "author": "Alma Guerra",
+    "source": {
+      "pmid": "42786309",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42786309/",
+      "doi": "10.1038/s43587-026-01221-z",
+      "journal": "Nature aging",
+      "authors": [
+        "Hyeonsoo Jeong",
+        "Blue B Lake",
+        "Dinh Diep",
+        "Xuwen Li",
+        "Qi Yan"
+      ],
+      "title": "A cross-species single-cell kidney epigenome atlas reveals epithelial-dominant aging-like states in disease.",
+      "publication_date": "2026 Oct"
+    }
+  },
+  {
+    "id": "42811121",
+    "topic": "Metabolismo",
+    "art": "mito",
+    "evidence": "Preclínica + muestras humanas",
+    "model": "Músculo humano y modelos genéticos de ratón",
+    "title": "La cardiolipina vincula el deterioro mitocondrial con el envejecimiento muscular",
+    "summary": "Un lípido de la membrana mitocondrial ayuda a explicar por qué cambian las fibras musculares con la edad.",
+    "body": [
+      "Con los años, el músculo pierde función mitocondrial y cambia su composición de fibras. Esta investigación conecta ambos fenómenos con la cardiolipina, un componente de la membrana de las mitocondrias.",
+      "Reducir su síntesis en músculo de ratones jóvenes reprodujo rasgos del envejecimiento. La respuesta dependía de señales hacia el núcleo y del receptor ERRγ, que reorganizaban el uso de energía y las defensas antioxidantes. Restaurar la expresión de Crls1 en el modelo genético recuperó cardiolipina, inició la reversión de la atrofia y corrigió la mortalidad prematura. El trabajo incluye observaciones en músculo humano."
+    ],
+    "impact": "Muestra que los lípidos mitocondriales también coordinan adaptaciones del músculo.",
+    "limit": "El rescate se realizó en un modelo de déficit inducido. No equivale a rejuvenecer músculo humano mediante un tratamiento.",
+    "slug": "la-cardiolipina-vincula-el-deterioro-mitocondrial-con-el-envejecimiento-muscular",
+    "date": "octubre de 2026",
+    "sort": "2026-10-00",
+    "published_at": "2026-10-25",
+    "added_sort": "2026-10-25-00000007",
+    "archive": false,
+    "group": "preclinical",
+    "minutes": 1,
+    "author": "Alma Guerra",
+    "source": {
+      "pmid": "42811121",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42811121/",
+      "doi": "10.1038/s43587-026-01227-7",
+      "journal": "Nature aging",
+      "authors": [
+        "Fabian Finger",
+        "Mikkel Frost",
+        "Shinya Watanabe",
+        "Tao Ma",
+        "Taewook Kang"
+      ],
+      "title": "Mitochondrial membrane lipid cardiolipin controls fiber-type adaptations in aging muscle via estrogen-related receptor γ.",
+      "publication_date": "2026 Oct"
+    }
+  },
+  {
+    "id": "42875584",
+    "topic": "Cerebro",
+    "art": "neuron",
+    "evidence": "Preclínica",
+    "model": "Células madre neurales y ratones",
+    "title": "Una enzima de las células madre conecta lípidos y memoria en ratones viejos",
+    "summary": "Reducir PLA2G7 mejora el funcionamiento de circuitos inhibidores del hipocampo y el rendimiento cognitivo en animales.",
+    "body": [
+      "Las células madre del cerebro pueden influir en sus circuitos sin producir nuevas neuronas. Este trabajo identifica una función de PLA2G7, una enzima que metaboliza lípidos y que estas células liberan en el hipocampo.",
+      "Eliminar Pla2g7 de forma selectiva reforzó las señales inhibidoras del giro dentado y mejoró tareas de memoria. Los análisis apuntan a cambios en la composición de fosfolípidos como vínculo entre la enzima y las sinapsis. En ratones envejecidos, suprimir PLA2G7 restauró parcialmente el equilibrio del circuito y mejoró la cognición. La investigación abre una vía distinta de la regeneración de neuronas."
+    ],
+    "impact": "Revela una forma de regular circuitos cerebrales a través del metabolismo de las células madre.",
+    "limit": "No hay un ensayo humano. El rescate experimental con fosfatidilcolina tampoco demuestra un beneficio de suplementos en personas.",
+    "slug": "una-enzima-de-las-celulas-madre-conecta-lipidos-y-memoria-en-ratones-viejos",
+    "date": "octubre de 2026",
+    "sort": "2026-10-00",
+    "published_at": "2026-10-25",
+    "added_sort": "2026-10-25-00000006",
+    "archive": false,
+    "group": "preclinical",
+    "minutes": 1,
+    "author": "Alma Guerra",
+    "source": {
+      "pmid": "42875584",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42875584/",
+      "doi": "10.1038/s43587-026-01202-2",
+      "journal": "Nature aging",
+      "authors": [
+        "Fuling Wu",
+        "Yingxue Wu",
+        "Bingbing Qin",
+        "Jinfeng Zhang",
+        "Xinyu Zhu"
+      ],
+      "title": "Suppressing neural stem cell PLA2G7 restores inhibitory circuit function and improves cognition in aging mice.",
+      "publication_date": "2026 Oct"
+    }
+  },
+  {
     "id": "42848887",
     "topic": "Biomarcadores",
     "art": "dna",
@@ -239,6 +1207,8 @@
     "slug": "por-que-los-perros-grandes-viven-menos-nuevas-pistas-en-su-epigenetica",
     "date": "8 de octubre de 2026",
     "sort": "2026-10-08",
+    "published_at": "2026-10-25",
+    "added_sort": "2026-10-25-00000005",
     "archive": false,
     "group": "preclinical",
     "minutes": 1,
@@ -260,6 +1230,123 @@
     }
   },
   {
+    "id": "42839094",
+    "topic": "Metabolismo",
+    "art": "molecule",
+    "evidence": "Preclínica + datos humanos",
+    "model": "Humanos, ratones, moscas y nematodos",
+    "title": "La longitud de las grasas celulares aparece como una nueva señal de envejecimiento",
+    "summary": "Un análisis entre especies encuentra cadenas lipídicas más largas con la edad. Modificar una de sus vías prolonga la vida de nematodos.",
+    "body": [
+      "Los lípidos forman membranas, almacenan energía y transmiten señales. Este estudio identifica un patrón que atraviesa especies: con el envejecimiento aumentan proporcionalmente las cadenas lipídicas largas frente a las cortas. El fenómeno aparece en ratones, moscas, nematodos y muestras humanas.",
+      "Los autores relacionan el cambio con Plb1, un regulador del remodelado lipídico. En nematodos, reducir su actividad revirtió el alargamiento de los lípidos y extendió la vida de una forma dependiente de su longitud. En humanos, los análisis genéticos apoyan una relación con fragilidad. La restricción dietética también modificó el perfil de lípidos del corazón de ratones."
+    ],
+    "impact": "Sitúa la arquitectura de las grasas celulares como una posible diana de investigación.",
+    "limit": "La prolongación de vida se demostró en nematodos. No permite deducir una dieta o tratamiento para personas.",
+    "slug": "la-longitud-de-las-grasas-celulares-aparece-como-una-nueva-senal-de-envejecimiento",
+    "date": "octubre de 2026",
+    "sort": "2026-10-00",
+    "published_at": "2026-10-25",
+    "added_sort": "2026-10-25-00000004",
+    "archive": false,
+    "group": "preclinical",
+    "minutes": 1,
+    "author": "Alma Guerra",
+    "source": {
+      "pmid": "42839094",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42839094/",
+      "doi": "10.1038/s43587-026-01223-x",
+      "journal": "Nature aging",
+      "authors": [
+        "Weisha Li",
+        "Bauke V Schomakers",
+        "Maria M Trętowicz",
+        "Laura Hartshorne",
+        "Jonathan Sulc"
+      ],
+      "title": "Longer lipids mark aging and constrain lifespan.",
+      "publication_date": "2026 Oct"
+    }
+  },
+  {
+    "id": "42686906",
+    "topic": "Metabolismo",
+    "art": "molecule",
+    "evidence": "Preclínica",
+    "model": "Ratones hembra de edad avanzada",
+    "title": "Semaglutida prolonga la vida en ratones hembra tratados a edad avanzada",
+    "summary": "El estudio compara la activación del receptor GLP-1 con la restricción calórica y encuentra efectos funcionales compartidos y diferentes.",
+    "body": [
+      "Un trabajo en Nature estudió qué sucede al iniciar semaglutida en ratones hembra de veinte meses. Tras tres meses, los animales mostraron mejoras funcionales y cambios en mecanismos relacionados con el envejecimiento. Mantener el tratamiento prolongó su supervivencia.",
+      "La comparación directa con una restricción calórica ajustada encontró beneficios comunes, pero también trayectorias más favorables con semaglutida en exploración, memoria espacial y control de glucosa. Los autores proponen que la activación de GLP-1 puede imitar parte de la respuesta a comer menos e influir en vías adicionales. El interés está en el mecanismo y en comenzar la intervención tarde."
+    ],
+    "impact": "Aporta una hipótesis experimental sobre efectos de GLP-1 más allá del control del peso.",
+    "limit": "El experimento se hizo en ratones hembra. No demuestra que semaglutida alargue la vida humana.",
+    "slug": "semaglutida-prolonga-la-vida-en-ratones-hembra-tratados-a-edad-avanzada",
+    "date": "septiembre de 2026",
+    "sort": "2026-09-00",
+    "published_at": "2026-10-25",
+    "added_sort": "2026-10-25-00000003",
+    "archive": false,
+    "group": "preclinical",
+    "minutes": 1,
+    "author": "Alma Guerra",
+    "source": {
+      "pmid": "42686906",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42686906/",
+      "doi": "10.1038/s41586-026-10940-7",
+      "journal": "Nature",
+      "authors": [
+        "Yufan Feng",
+        "Marine Barthez",
+        "Yifei Wang",
+        "Yibing Chen",
+        "Huixian Qiu"
+      ],
+      "title": "Late-life semaglutide treatment slows ageing and extends lifespan in female mice.",
+      "publication_date": "2026 Sep"
+    }
+  },
+  {
+    "id": "42919924",
+    "topic": "Biomarcadores",
+    "art": "vessel",
+    "evidence": "Atlas humano + modelos",
+    "model": "Más de 375.000 células de 12 tejidos humanos",
+    "title": "Un atlas de 375.000 células revela cómo envejecen nuestros vasos",
+    "summary": "El nuevo mapa del endotelio humano permite estudiar qué cambios comparten los vasos sanguíneos y cuáles dependen del órgano.",
+    "body": [
+      "El endotelio, la capa celular que recubre los vasos, participa en el funcionamiento de todos los órganos. Sin embargo, faltaba una referencia integrada de sus cambios a lo largo de la vida adulta. El atlas HAECA reúne más de 375.000 células endoteliales procedentes de doce tejidos humanos.",
+      "El análisis identifica una menor expresión de genes asociados a la formación de vasos en células venosas y alteraciones en la matriz extracelular y la respuesta a fuerzas mecánicas. También detecta un programa relacionado con p21, que los autores vinculan a senescencia mediante modelos experimentales. La aportación principal es un mapa para localizar vulnerabilidades y formular nuevas hipótesis."
+    ],
+    "impact": "Ofrece una referencia común para investigar envejecimiento vascular en distintos órganos.",
+    "limit": "Un atlas describe diferencias asociadas a la edad. No demuestra que corregirlas rejuvenezca los vasos.",
+    "slug": "un-atlas-de-375-000-celulas-revela-como-envejecen-nuestros-vasos",
+    "date": "23 de octubre de 2026",
+    "sort": "2026-10-23",
+    "published_at": "2026-10-25",
+    "added_sort": "2026-10-25-00000002",
+    "archive": false,
+    "group": "observational",
+    "minutes": 1,
+    "author": "Alma Guerra",
+    "source": {
+      "pmid": "42919924",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42919924/",
+      "doi": "10.1038/s43587-026-01247-3",
+      "journal": "Nature aging",
+      "authors": [
+        "Sarah Dobner",
+        "Lisa Kleissl",
+        "Fanni Tóth",
+        "Robert L Paxton",
+        "Irena Yordanova"
+      ],
+      "title": "Uncovering the transcriptional hallmarks of endothelial cell aging via integrated single-cell analysis.",
+      "publication_date": "2026 Oct 23"
+    }
+  },
+  {
     "id": "42834177",
     "topic": "Senescencia",
     "art": "cell",
@@ -276,6 +1363,8 @@
     "slug": "recuperar-la-limpieza-celular-ayuda-a-eliminar-celulas-senescentes",
     "date": "5 de octubre de 2026",
     "sort": "2026-10-05",
+    "published_at": "2026-10-25",
+    "added_sort": "2026-10-25-00000001",
     "archive": false,
     "group": "preclinical",
     "minutes": 1,
@@ -313,6 +1402,8 @@
     "slug": "srsf1-una-nueva-via-para-devolver-rasgos-jovenes-a-las-celulas",
     "date": "octubre de 2026",
     "sort": "2026-10-00",
+    "published_at": "2026-10-25",
+    "added_sort": "2026-10-25-00000000",
     "archive": false,
     "group": "preclinical",
     "minutes": 1,
@@ -331,946 +1422,6 @@
       ],
       "title": "Transcriptomic reprogramming screen identifies SRSF1 as a regulator of aging.",
       "publication_date": "2026 Oct"
-    }
-  },
-  {
-    "id": "42839094",
-    "topic": "Metabolismo",
-    "art": "molecule",
-    "evidence": "Preclínica + datos humanos",
-    "model": "Humanos, ratones, moscas y nematodos",
-    "title": "La longitud de las grasas celulares aparece como una nueva señal de envejecimiento",
-    "summary": "Un análisis entre especies encuentra cadenas lipídicas más largas con la edad. Modificar una de sus vías prolonga la vida de nematodos.",
-    "body": [
-      "Los lípidos forman membranas, almacenan energía y transmiten señales. Este estudio identifica un patrón que atraviesa especies: con el envejecimiento aumentan proporcionalmente las cadenas lipídicas largas frente a las cortas. El fenómeno aparece en ratones, moscas, nematodos y muestras humanas.",
-      "Los autores relacionan el cambio con Plb1, un regulador del remodelado lipídico. En nematodos, reducir su actividad revirtió el alargamiento de los lípidos y extendió la vida de una forma dependiente de su longitud. En humanos, los análisis genéticos apoyan una relación con fragilidad. La restricción dietética también modificó el perfil de lípidos del corazón de ratones."
-    ],
-    "impact": "Sitúa la arquitectura de las grasas celulares como una posible diana de investigación.",
-    "limit": "La prolongación de vida se demostró en nematodos. No permite deducir una dieta o tratamiento para personas.",
-    "slug": "la-longitud-de-las-grasas-celulares-aparece-como-una-nueva-senal-de-envejecimiento",
-    "date": "octubre de 2026",
-    "sort": "2026-10-00",
-    "archive": false,
-    "group": "preclinical",
-    "minutes": 1,
-    "author": "Alma Guerra",
-    "source": {
-      "pmid": "42839094",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42839094/",
-      "doi": "10.1038/s43587-026-01223-x",
-      "journal": "Nature aging",
-      "authors": [
-        "Weisha Li",
-        "Bauke V Schomakers",
-        "Maria M Trętowicz",
-        "Laura Hartshorne",
-        "Jonathan Sulc"
-      ],
-      "title": "Longer lipids mark aging and constrain lifespan.",
-      "publication_date": "2026 Oct"
-    }
-  },
-  {
-    "id": "42875584",
-    "topic": "Cerebro",
-    "art": "neuron",
-    "evidence": "Preclínica",
-    "model": "Células madre neurales y ratones",
-    "title": "Una enzima de las células madre conecta lípidos y memoria en ratones viejos",
-    "summary": "Reducir PLA2G7 mejora el funcionamiento de circuitos inhibidores del hipocampo y el rendimiento cognitivo en animales.",
-    "body": [
-      "Las células madre del cerebro pueden influir en sus circuitos sin producir nuevas neuronas. Este trabajo identifica una función de PLA2G7, una enzima que metaboliza lípidos y que estas células liberan en el hipocampo.",
-      "Eliminar Pla2g7 de forma selectiva reforzó las señales inhibidoras del giro dentado y mejoró tareas de memoria. Los análisis apuntan a cambios en la composición de fosfolípidos como vínculo entre la enzima y las sinapsis. En ratones envejecidos, suprimir PLA2G7 restauró parcialmente el equilibrio del circuito y mejoró la cognición. La investigación abre una vía distinta de la regeneración de neuronas."
-    ],
-    "impact": "Revela una forma de regular circuitos cerebrales a través del metabolismo de las células madre.",
-    "limit": "No hay un ensayo humano. El rescate experimental con fosfatidilcolina tampoco demuestra un beneficio de suplementos en personas.",
-    "slug": "una-enzima-de-las-celulas-madre-conecta-lipidos-y-memoria-en-ratones-viejos",
-    "date": "octubre de 2026",
-    "sort": "2026-10-00",
-    "archive": false,
-    "group": "preclinical",
-    "minutes": 1,
-    "author": "Alma Guerra",
-    "source": {
-      "pmid": "42875584",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42875584/",
-      "doi": "10.1038/s43587-026-01202-2",
-      "journal": "Nature aging",
-      "authors": [
-        "Fuling Wu",
-        "Yingxue Wu",
-        "Bingbing Qin",
-        "Jinfeng Zhang",
-        "Xinyu Zhu"
-      ],
-      "title": "Suppressing neural stem cell PLA2G7 restores inhibitory circuit function and improves cognition in aging mice.",
-      "publication_date": "2026 Oct"
-    }
-  },
-  {
-    "id": "42811121",
-    "topic": "Metabolismo",
-    "art": "mito",
-    "evidence": "Preclínica + muestras humanas",
-    "model": "Músculo humano y modelos genéticos de ratón",
-    "title": "La cardiolipina vincula el deterioro mitocondrial con el envejecimiento muscular",
-    "summary": "Un lípido de la membrana mitocondrial ayuda a explicar por qué cambian las fibras musculares con la edad.",
-    "body": [
-      "Con los años, el músculo pierde función mitocondrial y cambia su composición de fibras. Esta investigación conecta ambos fenómenos con la cardiolipina, un componente de la membrana de las mitocondrias.",
-      "Reducir su síntesis en músculo de ratones jóvenes reprodujo rasgos del envejecimiento. La respuesta dependía de señales hacia el núcleo y del receptor ERRγ, que reorganizaban el uso de energía y las defensas antioxidantes. Restaurar la expresión de Crls1 en el modelo genético recuperó cardiolipina, inició la reversión de la atrofia y corrigió la mortalidad prematura. El trabajo incluye observaciones en músculo humano."
-    ],
-    "impact": "Muestra que los lípidos mitocondriales también coordinan adaptaciones del músculo.",
-    "limit": "El rescate se realizó en un modelo de déficit inducido. No equivale a rejuvenecer músculo humano mediante un tratamiento.",
-    "slug": "la-cardiolipina-vincula-el-deterioro-mitocondrial-con-el-envejecimiento-muscular",
-    "date": "octubre de 2026",
-    "sort": "2026-10-00",
-    "archive": false,
-    "group": "preclinical",
-    "minutes": 1,
-    "author": "Alma Guerra",
-    "source": {
-      "pmid": "42811121",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42811121/",
-      "doi": "10.1038/s43587-026-01227-7",
-      "journal": "Nature aging",
-      "authors": [
-        "Fabian Finger",
-        "Mikkel Frost",
-        "Shinya Watanabe",
-        "Tao Ma",
-        "Taewook Kang"
-      ],
-      "title": "Mitochondrial membrane lipid cardiolipin controls fiber-type adaptations in aging muscle via estrogen-related receptor γ.",
-      "publication_date": "2026 Oct"
-    }
-  },
-  {
-    "id": "42786309",
-    "topic": "Biomarcadores",
-    "art": "dna",
-    "evidence": "Preclínica + muestras humanas",
-    "model": "Riñones humanos y de ratón",
-    "title": "Un mapa epigenético sitúa el envejecimiento renal en las células de los túbulos",
-    "summary": "La enfermedad renal y el envejecimiento comparten alteraciones de identidad celular y organización del ADN.",
-    "body": [
-      "No todas las células de un riñón envejecen de la misma manera. Un atlas combina metilación del ADN, accesibilidad de la cromatina y expresión de genes en riñones humanos sanos o lesionados y riñones de ratones envejecidos.",
-      "Las células epiteliales de los túbulos enfermos mostraban señales marcadas de envejecimiento epigenético acelerado. Estas alteraciones se localizaban en zonas donde la reparación no se había resuelto. El estudio también encontró reorganizaciones de la estructura tridimensional del genoma y una pérdida de control sobre genes que sostienen la identidad celular. Son conexiones entre envejecimiento y reparación fallida, todavía sin una intervención clínica."
-    ],
-    "impact": "Ayuda a localizar qué poblaciones celulares pueden concentrar la vulnerabilidad renal.",
-    "limit": "Las semejanzas moleculares no demuestran que una intervención epigenética restaure la función del riñón.",
-    "slug": "un-mapa-epigenetico-situa-el-envejecimiento-renal-en-las-celulas-de-los-tubulos",
-    "date": "octubre de 2026",
-    "sort": "2026-10-00",
-    "archive": false,
-    "group": "preclinical",
-    "minutes": 1,
-    "author": "Alma Guerra",
-    "source": {
-      "pmid": "42786309",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42786309/",
-      "doi": "10.1038/s43587-026-01221-z",
-      "journal": "Nature aging",
-      "authors": [
-        "Hyeonsoo Jeong",
-        "Blue B Lake",
-        "Dinh Diep",
-        "Xuwen Li",
-        "Qi Yan"
-      ],
-      "title": "A cross-species single-cell kidney epigenome atlas reveals epithelial-dominant aging-like states in disease.",
-      "publication_date": "2026 Oct"
-    }
-  },
-  {
-    "id": "42768111",
-    "topic": "Senescencia",
-    "art": "spectrum",
-    "evidence": "Preclínica",
-    "model": "Pulmón, piel y heridas de ratón",
-    "title": "RamanOmics busca reconocer células senescentes sin destruir el tejido",
-    "summary": "La combinación de espectroscopía e información molecular detecta firmas de senescencia que varían entre piel y pulmón.",
-    "body": [
-      "Identificar una célula senescente con un único marcador puede ocultar su diversidad. RamanOmics combina imágenes hiperespectrales Raman con secuenciación y transcriptómica espacial para relacionar composición bioquímica y actividad genética.",
-      "Aplicado a piel y pulmón de ratones jóvenes y viejos, el método distinguió programas específicos de cada tejido. También encontró una firma espectral vinculada a lípidos en células positivas para p21. Un sistema de aprendizaje automático integró estas señales en un código multimodal para identificar estados celulares sin destruirlos. En heridas, el análisis permitió seguir cambios relacionados con reparación y diferenciación de la epidermis."
-    ],
-    "impact": "Mejorar la medición de senescencia puede ayudar a evaluar futuras terapias con mayor precisión.",
-    "limit": "La prueba se realizó en tejidos de ratón. Falta validar su utilidad diagnóstica en personas.",
-    "slug": "ramanomics-busca-reconocer-celulas-senescentes-sin-destruir-el-tejido",
-    "date": "octubre de 2026",
-    "sort": "2026-10-00",
-    "archive": false,
-    "group": "preclinical",
-    "minutes": 1,
-    "author": "Alma Guerra",
-    "source": {
-      "pmid": "42768111",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42768111/",
-      "doi": "10.1038/s43587-026-01219-7",
-      "journal": "Nature aging",
-      "authors": [
-        "Ke Zhang",
-        "Xingjian Chen",
-        "Francesco Monticolo",
-        "Salvatore Sorrentino",
-        "Haochun Huang"
-      ],
-      "title": "RamanOmics decodes the spatial vibrational-molecular architecture of senescence in aging and repair.",
-      "publication_date": "2026 Oct"
-    }
-  },
-  {
-    "id": "42686898",
-    "topic": "Cerebro",
-    "art": "neuron",
-    "evidence": "Muestras humanas",
-    "model": "Tejido de 20 personas mayores y datos de cohortes",
-    "title": "El cerebro humano envejecido recibe más células inmunitarias de lo esperado",
-    "summary": "Las mutaciones somáticas permiten rastrear células procedentes de la médula ósea dentro de la población de microglía.",
-    "body": [
-      "La microglía es una población de células inmunitarias del sistema nervioso. Para reconstruir su origen en humanos, los autores utilizaron mutaciones acumuladas como etiquetas naturales de cada linaje celular.",
-      "En las veinte personas mayores estudiadas encontraron indicios de entrada de células derivadas de la médula ósea. Los análisis de células individuales mostraron que podían adquirir rasgos similares a la microglía y representar una fracción importante de esta población. Además, datos de cohortes revelaron una asociación protectora entre muchos tipos de hematopoyesis clonal y enfermedad de Alzheimer. El trabajo cuestiona una imagen demasiado estática de la inmunidad cerebral."
-    ],
-    "impact": "Permite investigar cómo cambia el origen de las células inmunitarias del cerebro con la edad.",
-    "limit": "La asociación con Alzheimer no prueba protección causal ni justifica inducir hematopoyesis clonal.",
-    "slug": "el-cerebro-humano-envejecido-recibe-mas-celulas-inmunitarias-de-lo-esperado",
-    "date": "octubre de 2026",
-    "sort": "2026-10-00",
-    "archive": false,
-    "group": "observational",
-    "minutes": 1,
-    "author": "Alma Guerra",
-    "source": {
-      "pmid": "42686898",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42686898/",
-      "doi": "10.1038/s41586-026-10939-0",
-      "journal": "Nature",
-      "authors": [
-        "Julia A Belk",
-        "Yaowen Zhang",
-        "Emily E Reilly",
-        "Quanming Shi",
-        "Daniel Dan Liu"
-      ],
-      "title": "Somatic mutations reveal the ontogeny of microglia in human ageing.",
-      "publication_date": "2026 Oct"
-    }
-  },
-  {
-    "id": "42784692",
-    "topic": "Senescencia",
-    "art": "cell",
-    "evidence": "Preclínica",
-    "model": "Modelos experimentales de fibrosis y cáncer",
-    "title": "Nanopartículas contra subtipos de células senescentes reducen fibrosis experimental",
-    "summary": "Una estrategia dirigida a P-selectina modifica nichos inflamatorios y favorece la entrada de células inmunitarias en tumores.",
-    "body": [
-      "Las células con rasgos senescentes no forman un grupo uniforme. Esa diversidad dificulta eliminarlas sin afectar otras funciones. Un estudio en Science identifica P-selectina en un subconjunto asociado a tejidos fibróticos y tumores.",
-      "Los investigadores diseñaron nanopartículas basadas en fucoidano que se unen a esa proteína. En sus modelos, la intervención redujo fibrosis y modificó poblaciones de macrófagos inmunosupresores. En tumores fibróticos, el remodelado del entorno facilitó la infiltración inmunitaria y mejoró la respuesta a tratamientos que actúan sobre puntos de control del sistema inmunitario. La propuesta se centra en estados celulares concretos, no en borrar toda la senescencia."
-    ],
-    "impact": "Aporta una vía para hacer más selectivas las intervenciones dirigidas a senescencia.",
-    "limit": "Los beneficios son experimentales. No se ha demostrado aquí que esta nanoterapia prolongue la vida humana.",
-    "slug": "nanoparticulas-contra-subtipos-de-celulas-senescentes-reducen-fibrosis-experimental",
-    "date": "24 de septiembre de 2026",
-    "sort": "2026-09-24",
-    "archive": false,
-    "group": "preclinical",
-    "minutes": 1,
-    "author": "Alma Guerra",
-    "source": {
-      "pmid": "42784692",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42784692/",
-      "doi": "10.1126/science.aeg4791",
-      "journal": "Science (New York, N.Y.)",
-      "authors": [
-        "Clemens Hinterleitner",
-        "Valentin J A Barthet",
-        "Hailey V Goldberg",
-        "Kristen C Vogt",
-        "Ana Marie Perea"
-      ],
-      "title": "Senescence-directed nanotherapy ameliorates fibrosis and overcomes immune exclusion in cancer.",
-      "publication_date": "2026 Sep 24"
-    }
-  },
-  {
-    "id": "42753698",
-    "topic": "Biomarcadores",
-    "art": "network",
-    "evidence": "Computacional",
-    "model": "17 tareas y 18 sistemas de IA",
-    "title": "LongevityBench pone a prueba lo que la IA sabe sobre envejecimiento",
-    "summary": "Un banco abierto de pruebas revela límites al interpretar datos biológicos y muestra el potencial de modelos especializados pequeños.",
-    "body": [
-      "Responder sobre longevidad y entender datos del envejecimiento son capacidades diferentes. LongevityBench reúne diecisiete tareas de cinco dominios biológicos para medir cómo interpretan estos datos los sistemas de inteligencia artificial.",
-      "El equipo comparó dieciocho sistemas de seis desarrolladores. Ninguno dominó todas las tareas y la predicción de edad basada en datos ómicos fue especialmente difícil. Después ajustó una familia de modelos especializados de entre 600 millones y 9.000 millones de parámetros, capaces de igualar o superar modelos mayores en estas pruebas. Se publican el banco de evaluación, los modelos y una interfaz de investigación."
-    ],
-    "impact": "Ofrece una forma más concreta de evaluar herramientas de IA para gerociencia.",
-    "limit": "Rendir bien en un banco de pruebas no demuestra descubrimientos válidos, seguridad clínica ni tratamientos eficaces.",
-    "slug": "longevitybench-pone-a-prueba-lo-que-la-ia-sabe-sobre-envejecimiento",
-    "date": "17 de septiembre de 2026",
-    "sort": "2026-09-17",
-    "archive": false,
-    "group": "computational",
-    "minutes": 1,
-    "author": "Alma Guerra",
-    "source": {
-      "pmid": "42753698",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42753698/",
-      "doi": "10.1016/j.cell.2026.08.026",
-      "journal": "Cell",
-      "authors": [
-        "Alex Zhavoronkov",
-        "Vladimir Naumov",
-        "Denis Sidorenko",
-        "Alex Aliper",
-        "Vladimir Aladinskiy"
-      ],
-      "title": "An open benchmark and language models for AI in aging biology.",
-      "publication_date": "2026 Sep 17"
-    }
-  },
-  {
-    "id": "42691178",
-    "topic": "Biomarcadores",
-    "art": "spectrum",
-    "evidence": "Personas · observacional",
-    "model": "335 mujeres seguidas durante ocho años",
-    "title": "Ocho años de seguimiento muestran que el envejecimiento molecular no sigue un guion único",
-    "summary": "La trayectoria de miles de genes y metabolitos difiere entre personas y está influida por ritmos, genética y exposiciones.",
-    "body": [
-      "Una fotografía molecular puede ocultar cómo cambia un organismo. Este estudio siguió la expresión de genes en sangre y los niveles de metabolitos de 335 mujeres durante ocho años.",
-      "Los niveles de 5.061 genes y 181 metabolitos cambiaron con el tiempo. Sin embargo, las trayectorias individuales se separaban a menudo del promedio del grupo. Los cambios también estaban relacionados con tipos celulares, genética, ritmos circadianos, estaciones y exposición a contaminantes. Entre las vías implicadas aparecían procesos cardiometabólicos y neurodegenerativos. La investigación refuerza el valor de observar a una misma persona repetidamente, en lugar de deducir toda su trayectoria de una comparación entre edades."
-    ],
-    "impact": "Ayuda a diseñar biomarcadores que tengan en cuenta la variación personal y temporal.",
-    "limit": "El seguimiento es observacional y se limita a mujeres. No determina qué cambios causan enfermedad.",
-    "slug": "ocho-anos-de-seguimiento-muestran-que-el-envejecimiento-molecular-no-sigue-un-guion-unico",
-    "date": "3 de septiembre de 2026",
-    "sort": "2026-09-03",
-    "archive": false,
-    "group": "observational",
-    "minutes": 1,
-    "author": "Alma Guerra",
-    "source": {
-      "pmid": "42691178",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42691178/",
-      "doi": "10.1126/science.aed6452",
-      "journal": "Science (New York, N.Y.)",
-      "authors": [
-        "Julia S El-Sayed Moustafa",
-        "Anna Ramisch",
-        "Yasrab N Raza",
-        "Gwenael G R Leday",
-        "Yunlong Jiao"
-      ],
-      "title": "Longitudinal dynamics of gene expression and metabolomics in an aging population cohort.",
-      "publication_date": "2026 Sep 03"
-    }
-  },
-  {
-    "id": "42468523",
-    "topic": "Senescencia",
-    "art": "neuron",
-    "evidence": "Preclínica",
-    "model": "Neuronas cutáneas, fibroblastos y modelos animales",
-    "title": "Los nervios de la piel también participan en el mantenimiento del colágeno",
-    "summary": "La comunicación mediante glutamato conecta fibras nerviosas, senescencia de fibroblastos y envejecimiento cutáneo.",
-    "body": [
-      "El envejecimiento de la piel no depende solo de sus células estructurales. Este trabajo encuentra que las neuronas que la inervan participan en el mantenimiento del colágeno mediante liberación de glutamato.",
-      "Reducir la inervación aceleró rasgos de envejecimiento. Eliminar Nefh en un grupo de neuronas glutamatérgicas favoreció la senescencia de fibroblastos y la pérdida de colágeno. Los autores reconstruyeron una cadena de señales que incluye Cdk5 en las neuronas y Slc1a3 en los fibroblastos. Aportar glutamato mejoró algunos rasgos en sus experimentos. La aportación es una conexión funcional entre sistema nervioso y tejido cutáneo."
-    ],
-    "impact": "Abre preguntas sobre cómo proteger la comunicación entre nervios y células de la piel.",
-    "limit": "Los experimentos no prueban que aplicar o consumir glutamato rejuvenezca la piel humana.",
-    "slug": "los-nervios-de-la-piel-tambien-participan-en-el-mantenimiento-del-colageno",
-    "date": "3 de septiembre de 2026",
-    "sort": "2026-09-03",
-    "archive": false,
-    "group": "preclinical",
-    "minutes": 1,
-    "author": "Alma Guerra",
-    "source": {
-      "pmid": "42468523",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42468523/",
-      "doi": "10.1016/j.cell.2026.06.032",
-      "journal": "Cell",
-      "authors": [
-        "Zhikai Wang",
-        "Xinping Jin",
-        "Yue Wu",
-        "Wenxiang Ding",
-        "Fengjiao Zhang"
-      ],
-      "title": "Skin-innervating glutamatergic neurons modulate aging.",
-      "publication_date": "2026 Sep 03"
-    }
-  },
-  {
-    "id": "42686906",
-    "topic": "Metabolismo",
-    "art": "molecule",
-    "evidence": "Preclínica",
-    "model": "Ratones hembra de edad avanzada",
-    "title": "Semaglutida prolonga la vida en ratones hembra tratados a edad avanzada",
-    "summary": "El estudio compara la activación del receptor GLP-1 con la restricción calórica y encuentra efectos funcionales compartidos y diferentes.",
-    "body": [
-      "Un trabajo en Nature estudió qué sucede al iniciar semaglutida en ratones hembra de veinte meses. Tras tres meses, los animales mostraron mejoras funcionales y cambios en mecanismos relacionados con el envejecimiento. Mantener el tratamiento prolongó su supervivencia.",
-      "La comparación directa con una restricción calórica ajustada encontró beneficios comunes, pero también trayectorias más favorables con semaglutida en exploración, memoria espacial y control de glucosa. Los autores proponen que la activación de GLP-1 puede imitar parte de la respuesta a comer menos e influir en vías adicionales. El interés está en el mecanismo y en comenzar la intervención tarde."
-    ],
-    "impact": "Aporta una hipótesis experimental sobre efectos de GLP-1 más allá del control del peso.",
-    "limit": "El experimento se hizo en ratones hembra. No demuestra que semaglutida alargue la vida humana.",
-    "slug": "semaglutida-prolonga-la-vida-en-ratones-hembra-tratados-a-edad-avanzada",
-    "date": "septiembre de 2026",
-    "sort": "2026-09-00",
-    "archive": false,
-    "group": "preclinical",
-    "minutes": 1,
-    "author": "Alma Guerra",
-    "source": {
-      "pmid": "42686906",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42686906/",
-      "doi": "10.1038/s41586-026-10940-7",
-      "journal": "Nature",
-      "authors": [
-        "Yufan Feng",
-        "Marine Barthez",
-        "Yifei Wang",
-        "Yibing Chen",
-        "Huixian Qiu"
-      ],
-      "title": "Late-life semaglutide treatment slows ageing and extends lifespan in female mice.",
-      "publication_date": "2026 Sep"
-    }
-  },
-  {
-    "id": "42601407",
-    "topic": "Salud femenina",
-    "art": "rings",
-    "evidence": "Preclínica + datos humanos",
-    "model": "Cohortes humanas y experimentos en ratones",
-    "title": "Ejercicio y adiponectina: nuevas pistas sobre el envejecimiento de los ovarios",
-    "summary": "Datos de población se combinan con experimentos que identifican una vía hormonal relacionada con la función ovárica.",
-    "body": [
-      "El trabajo parte de análisis transversales en UK Biobank y NHANES, donde se observaron diferencias de actividad física según el estado menopáusico. Estas comparaciones no permiten establecer por sí solas qué causa qué.",
-      "En ratones, una mayor actividad física retrasó rasgos de envejecimiento ovárico y elevó la adiponectina en el ovario. Parte del efecto protector se redujo en animales deficientes en esa hormona. Además, el agonista AdipoRon retrasó el deterioro ovárico y extendió la vida reproductiva de ratones. La combinación de enfoques propone un mecanismo para investigar, pero mantiene separados los resultados humanos y animales."
-    ],
-    "impact": "Vincula una señal del metabolismo con la respuesta del ovario a la actividad física.",
-    "limit": "No demuestra que el ejercicio o AdipoRon retrasen la menopausia humana. Los datos de población son transversales.",
-    "slug": "ejercicio-y-adiponectina-nuevas-pistas-sobre-el-envejecimiento-de-los-ovarios",
-    "date": "septiembre de 2026",
-    "sort": "2026-09-00",
-    "archive": false,
-    "group": "preclinical",
-    "minutes": 1,
-    "author": "Alma Guerra",
-    "source": {
-      "pmid": "42601407",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42601407/",
-      "doi": "10.1038/s43587-026-01177-0",
-      "journal": "Nature aging",
-      "authors": [
-        "Biao Li",
-        "Nana Zheng",
-        "Tong Luo"
-      ],
-      "title": "Physical activity delays ovarian aging in part through adiponectin-related signaling pathways.",
-      "publication_date": "2026 Sep"
-    }
-  },
-  {
-    "id": "42463951",
-    "topic": "Inflamación",
-    "art": "vessel",
-    "evidence": "Preclínica",
-    "model": "Células madre hematopoyéticas y ratones",
-    "title": "La memoria inflamatoria de las células de la sangre puede impulsar el deterioro de otros tejidos",
-    "summary": "SIRT3 regula una respuesta de inmunidad entrenada que se vuelve perjudicial con la edad en modelos de ratón.",
-    "body": [
-      "La inmunidad entrenada permite que células inmunitarias respondan de forma más intensa tras una exposición. Este estudio propone que una versión desajustada de ese proceso contribuye a la inflamación del envejecimiento.",
-      "SIRT3, una enzima mitocondrial abundante en células madre hematopoyéticas pero reducida con la edad, limitaba esa respuesta. Aumentar su expresión mejoró el funcionamiento de estas células en ratones y atenuó deterioros de cognición y movilidad mediante cambios en sus descendientes mieloides. El resultado conecta el envejecimiento de la producción de sangre con efectos en tejidos distantes."
-    ],
-    "impact": "Señala las células madre hematopoyéticas como posibles coordinadoras de inflamación sistémica.",
-    "limit": "La intervención se evaluó en ratones. No demuestra que activar SIRT3 produzca beneficios equivalentes en humanos.",
-    "slug": "la-memoria-inflamatoria-de-las-celulas-de-la-sangre-puede-impulsar-el-deterioro-de-otros-tejidos",
-    "date": "septiembre de 2026",
-    "sort": "2026-09-00",
-    "archive": false,
-    "group": "preclinical",
-    "minutes": 1,
-    "author": "Alma Guerra",
-    "source": {
-      "pmid": "42463951",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42463951/",
-      "doi": "10.1038/s43587-026-01175-2",
-      "journal": "Nature aging",
-      "authors": [
-        "Wei-Chieh Mu",
-        "Marine Barthez",
-        "Yufan Feng"
-      ],
-      "title": "Trained immunity links hematopoietic stem cell aging to aging-associated inflammation.",
-      "publication_date": "2026 Sep"
-    }
-  },
-  {
-    "id": "42581103",
-    "topic": "Metabolismo",
-    "art": "mito",
-    "evidence": "Preclínica",
-    "model": "Ratones y organoides intestinales",
-    "title": "La inflamación altera el combustible de las células madre del intestino",
-    "summary": "La señal TNF–TNFR1 conecta el entorno envejecido con menor capacidad de regeneración intestinal en modelos experimentales.",
-    "body": [
-      "Las células madre intestinales renuevan un tejido sometido a desgaste continuo. Este estudio muestra que un entorno sistémico envejecido puede transmitirles rasgos de deterioro mediante señales inflamatorias.",
-      "En experimentos con ratones, bloquear TNFR1 protegió células jóvenes frente al entorno viejo. En organoides, TNF redujo la formación de estructuras regenerativas y alteró las vías mitocondriales y la oxidación de ácidos grasos. Reforzar la fusión mitocondrial o contrarrestar inflamación mejoró funciones en los modelos estudiados. El mecanismo enlaza señales externas con la forma en que estas células obtienen energía."
-    ],
-    "impact": "Ayuda a explicar cómo la inflamación puede limitar la regeneración de un tejido.",
-    "limit": "Los resultados son preclínicos. No justifican utilizar antiinflamatorios o anticuerpos anti-TNF para frenar el envejecimiento.",
-    "slug": "la-inflamacion-altera-el-combustible-de-las-celulas-madre-del-intestino",
-    "date": "agosto de 2026",
-    "sort": "2026-08-00",
-    "archive": false,
-    "group": "preclinical",
-    "minutes": 1,
-    "author": "Alma Guerra",
-    "source": {
-      "pmid": "42581103",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42581103/",
-      "doi": "10.1038/s43587-026-01170-7",
-      "journal": "Nature aging",
-      "authors": [
-        "Ruixuan Wang",
-        "Tahmineh Tabrizian",
-        "Donghai Wang"
-      ],
-      "title": "TNFR1 signaling connects inflammation to impaired fatty acid oxidation to drive intestinal stem cell aging.",
-      "publication_date": "2026 Aug"
-    }
-  },
-  {
-    "id": "42531412",
-    "topic": "Metabolismo",
-    "art": "cell",
-    "evidence": "Preclínica",
-    "model": "Atlas experimental de lisosomas en varios tejidos",
-    "title": "Los lisosomas acumulan con la edad metabolitos ligados a enfermedades de almacenamiento",
-    "summary": "El mapa de estos compartimentos celulares encuentra cambios diferentes en cerebro, corazón, músculo y tejido adiposo.",
-    "body": [
-      "Los lisosomas ayudan a degradar y reciclar componentes celulares. Un atlas multitejido muestra que los lisosomas envejecidos acumulan glicerofosfodiésteres y cistina, metabolitos vinculados a enfermedades de almacenamiento lisosomal.",
-      "Los niveles aumentaban con la edad antes del deterioro general del organismo. La restricción calórica atenuó estos cambios en corazón y músculo, pero no en cerebro. Esa diferencia es relevante: una intervención puede modificar el envejecimiento de forma desigual entre órganos. El estudio plantea conexiones mecanísticas entre enfermedades lisosomales de aparición temprana y procesos de deterioro asociados a la edad."
-    ],
-    "impact": "Señala metabolitos concretos para estudiar el fallo del reciclaje celular.",
-    "limit": "Compartir una firma metabólica no convierte el envejecimiento normal en una enfermedad de almacenamiento ni demuestra una solución clínica.",
-    "slug": "los-lisosomas-acumulan-con-la-edad-metabolitos-ligados-a-enfermedades-de-almacenamiento",
-    "date": "30 de julio de 2026",
-    "sort": "2026-07-30",
-    "archive": false,
-    "group": "preclinical",
-    "minutes": 1,
-    "author": "Alma Guerra",
-    "source": {
-      "pmid": "42531412",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42531412/",
-      "doi": "10.1126/science.ady0832",
-      "journal": "Science (New York, N.Y.)",
-      "authors": [
-        "Anna M Puszynska",
-        "Thao P Nguyen",
-        "Andrew L Cangelosi"
-      ],
-      "title": "Atlas of lysosomal aging reveals a metabolite signature shared with lysosomal storage disorders.",
-      "publication_date": "2026 Jul 30"
-    }
-  },
-  {
-    "id": "42490474",
-    "topic": "Cerebro",
-    "art": "neuron",
-    "evidence": "Muestras humanas",
-    "model": "Hipocampo humano a lo largo de la vida adulta",
-    "title": "El ADN del hipocampo cambia de organización a medida que envejecemos",
-    "summary": "Un mapa de varios niveles moleculares relaciona la edad con cambios en células de soporte y arquitectura del genoma.",
-    "body": [
-      "Cómo se pliega el ADN también condiciona qué genes pueden activarse. Este estudio analiza expresión de genes, accesibilidad de cromatina, metilación y arquitectura tridimensional del genoma en hipocampo humano.",
-      "Entre los cincuenta y setenta y cinco años se observó una reducción de microglía de origen embrionario y mayor presencia de células similares a microglía derivada de monocitos. Los astrocitos, incluidas poblaciones relacionadas con transmisión sináptica, disminuían con la edad. En varios tipos celulares aparecía una erosión de la organización tridimensional del genoma. Son cambios coordinados que ayudan a entender la diversidad del envejecimiento cerebral."
-    ],
-    "impact": "Añade la estructura espacial del ADN al mapa del deterioro de distintos tipos celulares.",
-    "limit": "Es un análisis de tejidos. No demuestra que reorganizar cromatina revierta el deterioro cognitivo.",
-    "slug": "el-adn-del-hipocampo-cambia-de-organizacion-a-medida-que-envejecemos",
-    "date": "23 de julio de 2026",
-    "sort": "2026-07-23",
-    "archive": false,
-    "group": "observational",
-    "minutes": 1,
-    "author": "Alma Guerra",
-    "source": {
-      "pmid": "42490474",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42490474/",
-      "doi": "10.1126/science.adt8307",
-      "journal": "Science (New York, N.Y.)",
-      "authors": [
-        "Nathan R Zemke",
-        "Seoyeon Lee",
-        "Sainath Mamde"
-      ],
-      "title": "Epigenetic and 3D genome reprogramming during the aging of the human hippocampus.",
-      "publication_date": "2026 Jul 23"
-    }
-  },
-  {
-    "id": "42462036",
-    "topic": "Inflamación",
-    "art": "cell",
-    "evidence": "Preclínica + muestras humanas",
-    "model": "Ratones envejecidos y tejidos humanos",
-    "title": "Restaurar la retirada de neutrófilos viejos protege varios órganos en ratones",
-    "summary": "La señal EP2 en macrófagos residentes aparece como regulador de una limpieza inmunitaria que se deteriora con la edad.",
-    "body": [
-      "Los macrófagos residentes retiran células que han dejado de funcionar. Este estudio identifica un fallo en la eliminación de neutrófilos senescentes, controlado por el receptor EP2 de prostaglandina E2.",
-      "Reducir esa señal en ratones envejecidos preservó funciones mitocondriales y atenuó deterioros en cognición, músculo, corazón y otros sistemas. Los análisis apuntaron al hígado como un foco importante de cambio inmunitario. En tejidos humanos envejecidos o enfermos también se observaron más expresión de EP2 y neutrófilos senescentes. La inhibición farmacológica recuperó capacidad de limpieza en los experimentos."
-    ],
-    "impact": "Conecta el envejecimiento de distintos órganos con un mecanismo inmunitario compartido.",
-    "limit": "La protección funcional se demostró en modelos de ratón. Las observaciones humanas no acreditan una terapia eficaz.",
-    "slug": "restaurar-la-retirada-de-neutrofilos-viejos-protege-varios-organos-en-ratones",
-    "date": "16 de julio de 2026",
-    "sort": "2026-07-16",
-    "archive": false,
-    "group": "preclinical",
-    "minutes": 1,
-    "author": "Alma Guerra",
-    "source": {
-      "pmid": "42462036",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42462036/",
-      "doi": "10.1126/science.aea3075",
-      "journal": "Science (New York, N.Y.)",
-      "authors": [
-        "Yuting Jessy Tan",
-        "Travis E Conley",
-        "Fuwen Yao"
-      ],
-      "title": "Restored clearance of senescent neutrophils by tissue-resident macrophages limits organ aging.",
-      "publication_date": "2026 Jul 16"
-    }
-  },
-  {
-    "id": "42105758",
-    "topic": "Biomarcadores",
-    "art": "spectrum",
-    "evidence": "Personas · observacional",
-    "model": "2.019 personas de 18 a 91 años",
-    "title": "Nuevos relojes combinan moléculas y capacidad física para medir el envejecimiento",
-    "summary": "Una cohorte china integra información clínica, fisiológica y molecular para representar diferencias entre personas y órganos.",
-    "body": [
-      "La edad biológica no se observa directamente como una fecha de nacimiento. El estudio mCAS combina datos de 2.019 personas de entre dieciocho y noventa y un años para construir varias aproximaciones.",
-      "Los autores desarrollaron un reloj de capacidad clínica y fisiológica, otro multimodal y relojes asociados a órganos. Los perfiles de proteínas plasmáticas funcionaron como indicadores de capacidad fisiológica, además de reflejar edad cronológica. El trabajo también identificó factores de coagulación acumulados con la edad y estudió su relación con senescencia e inflamación. La intención es acercar los marcadores moleculares al funcionamiento del organismo."
-    ],
-    "impact": "Ofrece un marco para estudiar envejecimiento a varias escalas con una referencia funcional.",
-    "limit": "La predicción de edad o función no convierte el reloj en un criterio clínico validado para decidir tratamientos.",
-    "slug": "nuevos-relojes-combinan-moleculas-y-capacidad-fisica-para-medir-el-envejecimiento",
-    "date": "9 de julio de 2026",
-    "sort": "2026-07-09",
-    "archive": false,
-    "group": "observational",
-    "minutes": 1,
-    "author": "Alma Guerra",
-    "source": {
-      "pmid": "42105758",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42105758/",
-      "doi": "10.1016/j.cell.2026.04.025",
-      "journal": "Cell",
-      "authors": [
-        "Jiaming Li",
-        "Beier Jiang",
-        "Wei Zhang"
-      ],
-      "title": "Multimodal clocks of human aging.",
-      "publication_date": "2026 Jul 09"
-    }
-  },
-  {
-    "id": "42399371",
-    "topic": "Metabolismo",
-    "art": "mito",
-    "evidence": "Personas · observacional",
-    "model": "Biopsias musculares y respuesta a ejercicio agudo",
-    "title": "El músculo de mayores entrenados conserva perfiles moleculares más próximos a los jóvenes",
-    "summary": "Un análisis de genes, lípidos y metabolitos conecta la forma física con el mantenimiento del metabolismo muscular.",
-    "body": [
-      "Los investigadores compararon músculo de adultos jóvenes y mayores con distintos niveles de función física, antes y después de una sesión de ejercicio submáximo. Estudiaron expresión genética, lípidos y metabolitos.",
-      "En mayores con actividad comparable a los jóvenes aparecía una menor expresión de genes relacionados con respiración celular y metabolismo energético. Aproximadamente la mitad de esas diferencias no se observaban en los mayores entrenados. La magnitud de ciertas respuestas al ejercicio también se relacionaba con la forma física. El mapa molecular conecta respiración mitocondrial, metabolismo de lípidos, respuesta al estrés y biología del NAD+."
-    ],
-    "impact": "Aporta detalles sobre qué rasgos moleculares acompañan al entrenamiento mantenido en edades avanzadas.",
-    "limit": "Comparar grupos no demuestra por sí solo causalidad. El resultado no significa que el músculo haya rejuvenecido un porcentaje concreto.",
-    "slug": "el-musculo-de-mayores-entrenados-conserva-perfiles-moleculares-mas-proximos-a-los-jovenes",
-    "date": "julio de 2026",
-    "sort": "2026-07-00",
-    "archive": false,
-    "group": "observational",
-    "minutes": 1,
-    "author": "Alma Guerra",
-    "source": {
-      "pmid": "42399371",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42399371/",
-      "doi": "10.1038/s43587-026-01150-x",
-      "journal": "Nature aging",
-      "authors": [
-        "Georges E Janssens",
-        "Maria M Trętowicz",
-        "Lotte Grevendonk"
-      ],
-      "title": "Delayed molecular aging, preservation of energy metabolism and enhanced exercise response in exercise-trained human muscle.",
-      "publication_date": "2026 Jul"
-    }
-  },
-  {
-    "id": "42380622",
-    "topic": "Reprogramación",
-    "art": "dna",
-    "evidence": "Preclínica + células humanas",
-    "model": "Ratones y células sanguíneas humanas fuera del cuerpo",
-    "title": "Silenciar la alarma de telómeros dañados mejora células madre sanguíneas experimentales",
-    "summary": "Oligonucleótidos antisentido reducen señales de daño y senescencia sin plantearse simplemente alargar los telómeros.",
-    "body": [
-      "Los telómeros dañados pueden activar respuestas persistentes que favorecen inflamación y senescencia. En lugar de alargarlos, este trabajo interviene sobre ARN teloméricos necesarios para sostener esa señal de daño.",
-      "Los oligonucleótidos antisentido redujeron la respuesta telomérica, la inflamación y problemas de producción de sangre en ratones con déficit de telomerasa y en ratones viejos normales. Las células madre hematopoyéticas mejoraron su capacidad de repoblación. El tratamiento fuera del organismo también mejoró funciones de células humanas de donantes mayores. Es una estrategia mecanísticamente distinta de restaurar la longitud del extremo cromosómico."
-    ],
-    "impact": "Abre una vía para investigar trastornos de los telómeros y envejecimiento hematopoyético.",
-    "limit": "Las células humanas se trataron ex vivo. No se han demostrado aquí seguridad y eficacia mediante administración a personas.",
-    "slug": "silenciar-la-alarma-de-telomeros-danados-mejora-celulas-madre-sanguineas-experimentales",
-    "date": "julio de 2026",
-    "sort": "2026-07-00",
-    "archive": false,
-    "group": "preclinical",
-    "minutes": 1,
-    "author": "Alma Guerra",
-    "source": {
-      "pmid": "42380622",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42380622/",
-      "doi": "10.1038/s43587-026-01136-9",
-      "journal": "Nature aging",
-      "authors": [
-        "Alessia Oppezzo",
-        "Sara Sepe",
-        "Giada Cicio"
-      ],
-      "title": "Therapeutic inhibition of telomeric DNA damage response rescues hematopoietic dysfunction driven by telomere shortening and aging.",
-      "publication_date": "2026 Jul"
-    }
-  },
-  {
-    "id": "42393307",
-    "topic": "Salud femenina",
-    "art": "rings",
-    "evidence": "Preclínica + muestras humanas",
-    "model": "Tejido humano; intervenciones en ratones y ratas",
-    "title": "IL-11 conecta rigidez del tejido y pérdida de función ovárica",
-    "summary": "Un estudio investiga cómo cambia la matriz del ovario y logra reducir su rigidez en roedores envejecidos.",
-    "body": [
-      "El entorno físico de las células influye en la función de los órganos. Los autores midieron una mayor rigidez de la matriz ovárica humana con la edad y en distintas situaciones patológicas.",
-      "La integración de datos de proteínas y expresión genética identificó IL-11 como promotora de activación de fibroblastos y depósito de matriz extracelular. Eliminar un componente de su receptor en ratones atenuó rigidez y pérdida funcional. En ratones y ratas mayores, nanopartículas que transportaban ARN para reducir Il11 mejoraron fertilidad y disminuyeron rigidez. Los resultados relacionan inflamación, mecánica del tejido y envejecimiento reproductivo."
-    ],
-    "impact": "Propone una diana concreta para estudiar la conservación de la función ovárica.",
-    "limit": "Las mejoras de fertilidad son de roedores. El estudio no demuestra retraso de menopausia ni recuperación de fertilidad en mujeres.",
-    "slug": "il-11-conecta-rigidez-del-tejido-y-perdida-de-funcion-ovarica",
-    "date": "julio de 2026",
-    "sort": "2026-07-00",
-    "archive": false,
-    "group": "preclinical",
-    "minutes": 1,
-    "author": "Alma Guerra",
-    "source": {
-      "pmid": "42393307",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42393307/",
-      "doi": "10.1038/s43587-026-01159-2",
-      "journal": "Nature aging",
-      "authors": [
-        "Meng Wu",
-        "Qingqing Zhu",
-        "Jiaqiang Xiong"
-      ],
-      "title": "Modulating IL-11-dependent matrix stiffness to delay ovarian aging.",
-      "publication_date": "2026 Jul"
-    }
-  },
-  {
-    "id": "39900648",
-    "topic": "Metabolismo",
-    "art": "molecule",
-    "evidence": "Ensayo en personas",
-    "model": "Análisis posterior de 777 participantes de DO-HEALTH",
-    "title": "Omega-3 y relojes epigenéticos: un efecto pequeño que exige una lectura precisa",
-    "summary": "Un análisis de tres años de DO-HEALTH detecta cambios modestos en algunos marcadores de envejecimiento, sin demostrar más años de vida.",
-    "body": [
-      "Un análisis posterior del ensayo DO-HEALTH estudió a 777 participantes durante tres años. Evaluó omega-3, vitamina D y un programa de ejercicio doméstico mediante cuatro medidas de metilación del ADN.",
-      "Omega-3 mostró un efecto pequeño en tres relojes. La combinación de las tres intervenciones tuvo un efecto adicional en PhenoAge. Las diferencias se traducían en unos 2,9 a 3,8 meses en esas medidas a lo largo del periodo. Esa cifra describe el comportamiento de indicadores moleculares, no meses de vida ganados ni un rejuvenecimiento uniforme de todos los órganos."
-    ],
-    "impact": "Aporta evidencia experimental humana sobre la posibilidad de modificar algunos biomarcadores.",
-    "limit": "Es un análisis post hoc y los resultados dependen del reloj utilizado. No prueba prolongación de vida ni beneficio clínico equivalente.",
-    "slug": "omega-3-y-relojes-epigeneticos-un-efecto-pequeno-que-exige-una-lectura-precisa",
-    "date": "marzo de 2025",
-    "sort": "2025-03-00",
-    "archive": true,
-    "group": "clinical",
-    "minutes": 1,
-    "author": "Alma Guerra",
-    "source": {
-      "pmid": "39900648",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/39900648/",
-      "doi": "10.1038/s43587-024-00793-y",
-      "journal": "Nature aging",
-      "authors": [
-        "Heike A Bischoff-Ferrari",
-        "Stephanie Gängler",
-        "Maud Wieczorek",
-        "Daniel W Belsky"
-      ],
-      "title": "Individual and additive effects of vitamin D, omega-3 and exercise on DNA methylation clocks of biological aging in older adults from the DO-HEALTH trial.",
-      "publication_date": "2025 Mar"
-    }
-  },
-  {
-    "id": "39020175",
-    "topic": "Inflamación",
-    "art": "molecule",
-    "evidence": "Preclínica",
-    "model": "Ratones de ambos sexos",
-    "title": "Bloquear IL-11 extendió la vida de ratones: por qué el hallazgo sigue siendo un hito",
-    "summary": "El estudio de 2024 conecta una señal inflamatoria con fragilidad, metabolismo y supervivencia, incluso al intervenir en edades avanzadas.",
-    "body": [
-      "La interleucina 11 aumenta en distintos tejidos de ratones con la edad. Este trabajo investigó su papel mediante eliminación genética y tratamiento con anticuerpos dirigidos a esa señal.",
-      "Administrar anti-IL-11 desde las setenta y cinco semanas mejoró metabolismo y función muscular, y redujo biomarcadores de envejecimiento y fragilidad. En los experimentos de supervivencia, la mediana de vida aumentó un 22,5 % en machos y un 25 % en hembras tratados. La eliminación genética también prolongó la vida. Es un ejemplo relevante de intervención tardía sobre una vía inflamatoria."
-    ],
-    "impact": "Convirtió IL-11 en una diana destacada para estudiar mecanismos de envejecimiento.",
-    "limit": "Los porcentajes pertenecen a ratones de ese estudio. No predicen cuánto viviría una persona ni acreditan un tratamiento antienvejecimiento humano.",
-    "slug": "bloquear-il-11-extendio-la-vida-de-ratones-por-que-el-hallazgo-sigue-siendo-un-hito",
-    "date": "agosto de 2024",
-    "sort": "2024-08-00",
-    "archive": true,
-    "group": "preclinical",
-    "minutes": 1,
-    "author": "Alma Guerra",
-    "source": {
-      "pmid": "39020175",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/39020175/",
-      "doi": "10.1038/s41586-024-07701-9",
-      "journal": "Nature",
-      "authors": [
-        "Anissa A Widjaja",
-        "Wei-Wen Lim",
-        "Sivakumar Viswanathan",
-        "Sonia Chothani",
-        "Ben Corden"
-      ],
-      "title": "Inhibition of IL-11 signalling extends mammalian healthspan and lifespan.",
-      "publication_date": "2024 Aug"
-    }
-  },
-  {
-    "id": "38267706",
-    "topic": "Senescencia",
-    "art": "cell",
-    "evidence": "Preclínica",
-    "model": "Ratones envejecidos y modelos de alteración metabólica",
-    "title": "Las CAR-T senolíticas logran efectos duraderos contra el deterioro metabólico en ratones",
-    "summary": "El trabajo de Corina Amor y colaboradores adapta inmunoterapia celular para reconocer células senescentes que expresan uPAR.",
-    "body": [
-      "Las CAR-T son células inmunitarias modificadas para reconocer una diana. En este trabajo, el equipo las dirige a uPAR, una proteína que aumenta en determinadas células senescentes.",
-      "En ratones envejecidos, la intervención mejoró tolerancia a la glucosa y capacidad de ejercicio. También se estudió en animales sometidos a una dieta rica en grasas. Una sola administración logró efectos terapéuticos y preventivos mantenidos, un resultado distinto del uso repetido que suelen requerir moléculas pequeñas. El enfoque aprovecha la persistencia de las células inmunitarias para vigilar poblaciones senescentes."
-    ],
-    "impact": "Es un hito en el desarrollo de inmunoterapias contra consecuencias de la senescencia.",
-    "limit": "Los resultados pertenecen a ratones. La selección de dianas, la seguridad y la duración deben evaluarse antes de extrapolarlos a personas.",
-    "slug": "las-car-t-senoliticas-logran-efectos-duraderos-contra-el-deterioro-metabolico-en-ratones",
-    "date": "marzo de 2024",
-    "sort": "2024-03-00",
-    "archive": true,
-    "group": "preclinical",
-    "minutes": 1,
-    "author": "Alma Guerra",
-    "source": {
-      "pmid": "38267706",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/38267706/",
-      "doi": "10.1038/s43587-023-00560-5",
-      "journal": "Nature aging",
-      "authors": [
-        "Corina Amor",
-        "Inés Fernández-Maestre",
-        "Saria Chowdhury",
-        "Yu-Jui Ho"
-      ],
-      "title": "Prophylactic and long-lasting efficacy of senolytic CAR T cells against age-related metabolic dysfunction.",
-      "publication_date": "2024 Mar"
-    }
-  },
-  {
-    "id": "37118425",
-    "topic": "Metabolismo",
-    "art": "rings",
-    "evidence": "Ensayo en personas",
-    "model": "CALERIE: 220 adultos sin obesidad; dos años",
-    "title": "CALERIE: comer menos modificó el ritmo de un reloj, pero no todos los marcadores",
-    "summary": "El ensayo aleatorizado encontró un efecto pequeño en DunedinPACE y resultados no significativos en otras estimaciones de edad biológica.",
-    "body": [
-      "CALERIE asignó aleatoriamente a 220 adultos sin obesidad a una intervención orientada a reducir un 25 % la ingesta calórica o a un grupo de control durante dos años. Un análisis posterior estudió sus efectos en medidas de metilación del ADN.",
-      "La intervención ralentizó el ritmo estimado por DunedinPACE. En cambio, no produjo cambios significativos en estimaciones de edad biológica como PhenoAge y GrimAge. Los tamaños de efecto fueron pequeños. La diferencia entre relojes recuerda que miden aspectos relacionados, pero no intercambiables, de la biología del envejecimiento."
-    ],
-    "impact": "Ofrece una prueba humana aleatorizada de que un indicador molecular puede responder a una intervención.",
-    "limit": "El análisis no demuestra más supervivencia ni menos enfermedad. La reducción del 25 % era el objetivo asignado, no la adherencia garantizada.",
-    "slug": "calerie-comer-menos-modifico-el-ritmo-de-un-reloj-pero-no-todos-los-marcadores",
-    "date": "marzo de 2023",
-    "sort": "2023-03-00",
-    "archive": true,
-    "group": "clinical",
-    "minutes": 1,
-    "author": "Alma Guerra",
-    "source": {
-      "pmid": "37118425",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/37118425/",
-      "doi": "10.1038/s43587-022-00357-y",
-      "journal": "Nature aging",
-      "authors": [
-        "R Waziry",
-        "C P Ryan",
-        "D L Corcoran",
-        "K M Huffman",
-        "M S Kobor"
-      ],
-      "title": "Effect of long-term caloric restriction on DNA methylation measures of biological aging in healthy adults from the CALERIE trial.",
-      "publication_date": "2023 Mar"
-    }
-  },
-  {
-    "id": "36599349",
-    "topic": "Bases científicas",
-    "art": "rings",
-    "evidence": "Revisión científica",
-    "model": "Marco conceptual publicado en Cell",
-    "title": "Las doce claves del envejecimiento: el mapa para entender las noticias de longevidad",
-    "summary": "López-Otín, Blasco, Partridge, Serrano y Kroemer amplían un marco que conecta daños, respuestas celulares y deterioro del organismo.",
-    "body": [
-      "La revisión de 2023 organiza la biología del envejecimiento en doce procesos conectados. Incluye inestabilidad del genoma, acortamiento de telómeros, alteraciones epigenéticas, pérdida de proteostasis, fallo de macroautofagia y desregulación de sensores de nutrientes.",
-      "El mapa se completa con disfunción mitocondrial, senescencia celular, agotamiento de células madre, comunicación intercelular alterada, inflamación crónica y disbiosis. Los autores proponen criterios experimentales para considerar que un proceso contribuye al envejecimiento, más allá de aparecer junto a él. La utilidad de este marco es conectar resultados dispersos y hacer mejores preguntas sobre sus mecanismos."
-    ],
-    "impact": "Proporciona una base común para leer con contexto las distintas líneas de investigación.",
-    "limit": "Es una revisión y una propuesta conceptual. La lista no es una receta terapéutica ni implica que cada mecanismo tenga una solución clínica.",
-    "slug": "las-doce-claves-del-envejecimiento-el-mapa-para-entender-las-noticias-de-longevidad",
-    "date": "19 de enero de 2023",
-    "sort": "2023-01-19",
-    "archive": true,
-    "group": "review",
-    "minutes": 1,
-    "author": "Alma Guerra",
-    "source": {
-      "pmid": "36599349",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/36599349/",
-      "doi": "10.1016/j.cell.2022.11.001",
-      "journal": "Cell",
-      "authors": [
-        "Carlos López-Otín",
-        "Maria A Blasco",
-        "Linda Partridge",
-        "Manuel Serrano",
-        "Guido Kroemer"
-      ],
-      "title": "Hallmarks of aging: An expanding universe.",
-      "publication_date": "2023 Jan 19"
     }
   }
 ]

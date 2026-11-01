@@ -84,7 +84,7 @@
   function refresh(){
     const q=norm(search.value.trim());
     let matches=cards.filter(c=>(topic==='Todos'||c.dataset.topic===topic)&&(!q||norm(c.dataset.search).includes(q))&&(evidence.value==='all'||c.dataset.group===evidence.value)&&(!onlySaved||saved.has(c.dataset.article)));
-    if(order.value==='oldest')matches.sort((a,b)=>a.dataset.sort.localeCompare(b.dataset.sort));else if(order.value==='title')matches.sort((a,b)=>a.dataset.title.localeCompare(b.dataset.title,'es'));else matches.sort((a,b)=>b.dataset.sort.localeCompare(a.dataset.sort));
+    if(order.value==='oldest')matches.sort((a,b)=>a.dataset.sort.localeCompare(b.dataset.sort));else if(order.value==='study')matches.sort((a,b)=>b.dataset.sort.localeCompare(a.dataset.sort));else if(order.value==='title')matches.sort((a,b)=>a.dataset.title.localeCompare(b.dataset.title,'es'));else matches.sort((a,b)=>b.dataset.added.localeCompare(a.dataset.added));
     cards.forEach(c=>{c.hidden=true;});
     const grid=$('#news-grid');
     matches.forEach((c,i)=>{
