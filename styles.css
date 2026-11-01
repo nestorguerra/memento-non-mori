@@ -128,7 +128,7 @@ body { background: var(--paper); }
 .dna-chapters > .is-active i { background: var(--acid); }
 .dna-caption { position: absolute; z-index: 3; bottom: 13px; left: 6vw; color: #9db2af; font-size: 8px; text-transform: uppercase; letter-spacing: 1px; margin: 0; }
 .dna-waypoint { display: none; }
-.dna-ready { height: 175svh; }
+.dna-ready { height: 130svh; }
 .dna-ready .dna-stage { height: 100svh; position: sticky; top: 0; }
 .dna-ready #dna-canvas { display: block; }
 .dna-ready .dna-poster { display: none; }
