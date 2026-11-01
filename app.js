@@ -216,7 +216,9 @@
     if (motion.matches) return;
     const bounds = journey.getBoundingClientRect();
     if (bounds.bottom < 0 || bounds.top > window.innerHeight) return;
-    const progress = clamp(-bounds.top / Math.max(1, bounds.height - height));
+    const compact = window.matchMedia('(max-width: 760px), (max-height: 500px) and (max-width: 1000px)').matches;
+    const travel = compact ? height * .6 : bounds.height - height;
+    const progress = clamp(-bounds.top / Math.max(1, travel));
     journey.style.setProperty('--dna-progress', progress);
     journey.dataset.dnaProgress = progress.toFixed(3);
     draw(progress * .32);

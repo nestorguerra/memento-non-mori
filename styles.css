@@ -651,3 +651,66 @@ body { background: var(--paper); }
   .home .mission-row figure { width: 72px; height: 96px; }
   .home .mission-copy h2 { font-size: 24px; }
 }
+
+/* Lectura móvil: apertura breve, titulares primero y controles cómodos. */
+@media (max-width: 760px) {
+  html { scroll-padding-top: 84px; }
+  .nav { height: 72px; padding-inline: var(--gutter); }
+  .nav-tools { gap: 4px; }
+  .nav-tools .icon-button { min-width: 44px; min-height: 44px; }
+  .nav-cta { min-height: 44px; font-size: 11px; padding-inline: 14px; }
+  .search-panel, .inner-page .search-panel { top: 84px; }
+  .search-field input { font-size: 16px; }
+  .home .dna-ready { height: auto; }
+  .home .dna-stage { min-height: 500px; }
+  .home .dna-ready .dna-stage { position: relative; height: 78svh; min-height: 500px; }
+  .home .dna-edition { top: 92px; left: var(--gutter); right: var(--gutter); }
+  .home .dna-edition > span:last-child { max-width: 130px; }
+  .home .dna-panels, .home .dna-ready .dna-panels { padding: 132px var(--gutter) 112px; }
+  .home .dna-copy { padding-bottom: 0; margin-bottom: 0; }
+  .home .dna-copy h1 { margin-bottom: 20px; }
+  .home .dna-kicker { margin-bottom: 14px; }
+  .home .dna-author { margin-top: 16px; }
+  .home .dna-bottom, .home .dna-ready .dna-bottom { position: absolute; left: 0; right: 0; bottom: 28px; padding: 0 var(--gutter); justify-content: flex-start; }
+  .home .dna-scroll-cue, .home .dna-ready .dna-scroll-cue, .home .dna-cover-proof { display: none; }
+  .home .dna-skip { display: inline-flex; align-items: center; min-height: 44px; padding: 10px 16px; border: 0; background: var(--acid); color: var(--night); font-size: 12px; }
+  .home .dna-editorial-strip { display: grid; grid-template-columns: repeat(3, auto); padding: 12px var(--gutter); gap: 6px 12px; }
+  .home .dna-editorial-strip > span { font-size: 9px; gap: 0; }
+  .home .dna-editorial-strip > span:after { display: none; }
+  .home .dna-editorial-strip > a { grid-column: 1/-1; width: auto; margin: 0; min-height: 28px; font-size: 10px; }
+  .home .image-ribbon { padding-top: 12px; }
+  .home .ribbon-card { height: 68px; }
+  .home .frontpage { padding-top: 20px; }
+  .home .desk-heading p br { display: initial; }
+  .home .desk-main { display: flex; flex-direction: column; }
+  .home .desk-main .card-copy { display: contents; }
+  .home .desk-main .card-kicker { order: 0; }
+  .home .desk-main .card-copy > a { order: 1; }
+  .home .desk-main > .card-image { order: 2; margin: 4px 0 12px; }
+  .home .desk-main .card-summary { order: 3; }
+  .home .desk-main .card-bottom { order: 4; }
+  .home .desk-secondary .meta, .home .desk-secondary .card-source { font-size: 10px; }
+  .home .save-button { min-width: 44px; min-height: 44px; }
+  .home .filter { min-height: 44px; font-size: 11px; }
+  .home .select-wrap select { min-height: 44px; }
+  .article-header { text-align: left; }
+  .article-header .meta, .article-actions { justify-content: flex-start; }
+}
+/* Al girar el móvil, el contenido determina la altura y evita solapamientos. */
+@media (max-height: 500px) and (max-width: 1000px) {
+  html { scroll-padding-top: 76px; }
+  .nav { height: 64px; }
+  .nav-links { display: none; }
+  .search-panel, .inner-page .search-panel { top: 76px; }
+  .home .dna-journey, .home .dna-ready { height: auto; min-height: 0; }
+  .home .dna-stage, .home .dna-ready .dna-stage { position: relative; height: auto; min-height: 360px; }
+  .home .dna-panels, .home .dna-ready .dna-panels { height: auto; padding: 120px var(--gutter) 92px; }
+  .home .dna-ready .dna-copy { width: 75%; max-width: 560px; }
+  .home .dna-kicker, .home .dna-cover-proof, .home .dna-scroll-cue, .home .dna-ready .dna-scroll-cue, .home .dna-side-note { display: none; }
+  .home .dna-edition { top: 82px; left: var(--gutter); right: var(--gutter); }
+  .home .dna-copy h1 { font-size: 52px; line-height: .94; margin-bottom: 12px; }
+  .home .dna-deck { font-size: 12px; line-height: 1.6; max-width: 400px; }
+  .home .dna-author { font-size: 9px; margin-top: 12px; }
+  .home .dna-bottom, .home .dna-ready .dna-bottom { position: absolute; left: 0; right: 0; bottom: 24px; padding: 0 var(--gutter); }
+  .home .dna-skip { display: inline-flex; align-items: center; min-height: 44px; padding: 10px 16px; border: 0; background: var(--acid); color: var(--night); font-size: 12px; }
+}
